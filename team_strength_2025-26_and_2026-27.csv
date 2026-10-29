@@ -1,0 +1,61 @@
+season,team,team_games,players_used,team_rating_36,top8_rating_36,best_player_by_rating_min500,top3_by_minutes,carryover_rating_36,share_minutes_without_2025_26_history,net_pts_per_game_actual
+2025-26,ATL,78,25,14.815,15.147,Jalen Johnson,Nickeil Alexander-Walker; Jalen Johnson; Dyson Daniels,14.714,0.0,2.415
+2025-26,BKN,69,22,12.751,12.622,Michael Porter Jr.,Nic Claxton; Noah Clowney; Michael Porter Jr.,12.687,0.0,-9.988
+2025-26,BOS,79,21,14.349,14.572,Jaylen Brown,Derrick White; Payton Pritchard; Jaylen Brown,14.381,0.0,7.695
+2025-26,CHA,82,21,14.279,14.849,LaMelo Ball,Kon Knueppel; Miles Bridges; LaMelo Ball,14.278,0.0,4.829
+2025-26,CHI,77,28,14.268,14.609,Josh Giddey,Matas Buzelis; Tre Jones; Josh Giddey,14.145,0.0,-5.207
+2025-26,CLE,70,24,14.979,15.788,Donovan Mitchell,Donovan Mitchell; Evan Mobley; Jaylon Tyson,15.035,0.0,4.122
+2025-26,DAL,77,23,13.788,14.063,Anthony Davis,Cooper Flagg; Max Christie; Naji Marshall,13.749,0.0,-5.512
+2025-26,DEN,82,19,15.253,15.621,Nikola Jokic,Jamal Murray; Nikola Jokic; Tim Hardaway Jr.,15.237,0.0,5.146
+2025-26,DET,82,20,14.905,15.328,Jalen Duren,Cade Cunningham; Duncan Robinson; Jalen Duren,14.902,0.0,8.159
+2025-26,GSW,82,22,14.089,14.238,Stephen Curry,Brandin Podziemski; Draymond Green; Moses Moody,14.142,0.0,-0.561
+2025-26,HOU,82,16,14.558,15.077,Kevin Durant,Amen Thompson; Kevin Durant; Jabari Smith Jr.,14.558,0.0,5.22
+2025-26,IND,82,27,13.737,14.345,Pascal Siakam,Pascal Siakam; Jarace Walker; Andrew Nembhard,13.791,0.0,-7.988
+2025-26,LAC,82,26,14.169,14.761,Kawhi Leonard,Kris Dunn; Kawhi Leonard; John Collins,14.096,0.0,1.134
+2025-26,LAL,82,20,14.743,15.738,Luka Doncic,Luka Doncic; Jake LaRavia; LeBron James,14.731,0.0,1.756
+2025-26,MEM,72,33,14.017,14.377,Ja Morant,Jaylen Wells; Cam Spencer; Cedric Coward,13.9,0.0,-6.012
+2025-26,MIA,77,17,14.93,15.298,Bam Adebayo,Bam Adebayo; Jaime Jaquez Jr.; Andrew Wiggins,14.93,0.0,2.329
+2025-26,MIL,78,21,13.351,13.011,Giannis Antetokounmpo,Ryan Rollins; AJ Green; Myles Turner,13.326,0.0,-6.207
+2025-26,MIN,82,21,14.53,14.902,Anthony Edwards,Julius Randle; Donte DiVincenzo; Rudy Gobert,14.553,0.0,3.354
+2025-26,NOP,82,19,14.179,14.896,Zion Williamson,Trey Murphy III; Saddiq Bey; Jeremiah Fears,14.192,0.0,-4.5
+2025-26,NYK,82,20,14.717,15.305,Karl-Anthony Towns,Mikal Bridges; Jalen Brunson; Karl-Anthony Towns,14.678,0.0,6.329
+2025-26,OKC,77,20,15.009,15.381,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander; Cason Wallace; Chet Holmgren,14.949,0.0,11.146
+2025-26,ORL,82,19,14.178,14.857,Franz Wagner,Desmond Bane; Paolo Banchero; Wendell Carter Jr.,14.167,0.0,0.634
+2025-26,PHI,75,23,14.263,14.701,Joel Embiid,Tyrese Maxey; VJ Edgecombe; Quentin Grimes,14.27,0.0,-0.183
+2025-26,PHX,82,20,13.816,14.321,Devin Booker,Collin Gillespie; Royce O'Neale; Devin Booker,13.795,0.0,1.463
+2025-26,POR,82,20,13.976,14.273,Deni Avdija,Toumani Camara; Deni Avdija; Donovan Clingan,13.97,0.0,-0.293
+2025-26,SAC,77,23,13.592,14.048,DeMar DeRozan,DeMar DeRozan; Maxime Raynaud; Nique Clifford,13.57,0.0,-10.0
+2025-26,SAS,83,20,15.12,15.578,Victor Wembanyama,Julian Champagnie; De'Aaron Fox; Devin Vassell,15.13,0.0,8.305
+2025-26,TOR,82,20,14.545,15.034,Scottie Barnes,Scottie Barnes; Brandon Ingram; Immanuel Quickley,14.55,0.0,2.829
+2025-26,UTA,77,25,14.272,14.673,Lauri Markkanen,Ace Bailey; Kyle Filipowski; Keyonte George,14.228,0.0,-8.427
+2025-26,WAS,82,26,13.33,13.284,Alex Sarr,Bub Carrington; Will Riley; Bilal Coulibaly,13.344,0.0,-11.988
+2026-27,ATL,4,13,14.315,14.456,Jalen Johnson,Jalen Johnson; Nickeil Alexander-Walker; Dyson Daniels,14.691,0.085,
+2026-27,BKN,4,15,13.9,13.877,Michael Porter Jr.,Julius Randle; Michael Porter Jr.; Keon Ellis,14.155,0.073,
+2026-27,BOS,4,14,14.206,14.363,Jayson Tatum,Jayson Tatum; Paul George; Derrick White,14.269,0.005,
+2026-27,CHA,4,13,13.708,13.724,Moussa Diabate,Brandon Miller; Dennis Schroder; Naz Reid,13.534,0.057,
+2026-27,CHI,4,15,13.892,13.997,Norman Powell,Caleb Wilson; Norman Powell; Josh Giddey,15.056,0.207,
+2026-27,CLE,3,11,14.081,14.081,Donovan Mitchell,Donovan Mitchell; Evan Mobley; James Harden,16.805,0.098,
+2026-27,DAL,4,14,13.888,13.893,Cooper Flagg,P.J. Washington; Zaccharie Risacher; Max Christie,13.459,0.199,
+2026-27,DEN,3,15,13.952,13.954,Nikola Jokic,Jamal Murray; Nikola Jokic; Christian Braun,17.748,0.183,
+2026-27,DET,4,17,14.103,14.096,Paul Reed,Cade Cunningham; Duncan Robinson; John Collins,15.022,0.006,
+2026-27,GSW,4,15,14.156,14.261,Stephen Curry,Yaxel Lendeborg; Gui Santos; De'Anthony Melton,14.335,0.271,
+2026-27,HOU,4,14,14.582,14.682,Alperen Sengun,Jabari Smith Jr.; Kevin Durant; Amen Thompson,14.97,0.103,
+2026-27,IND,4,14,14.253,14.387,Tyrese Haliburton,Tyrese Haliburton; Pascal Siakam; Andrew Nembhard,14.45,0.137,
+2026-27,LAC,3,13,13.949,13.946,Brook Lopez,Darius Garland; Kris Dunn; Rui Hachimura,12.444,0.127,
+2026-27,LAL,4,13,14.699,14.814,Luka Doncic,Austin Reaves; Luka Doncic; Walker Kessler,15.986,0.0,
+2026-27,MEM,4,13,14.191,14.351,Ty Jerome,Cameron Boozer; Ty Jerome; Jaylen Wells,14.824,0.138,
+2026-27,MIA,4,14,13.854,13.858,Giannis Antetokounmpo,Davion Mitchell; Giannis Antetokounmpo; Bam Adebayo,15.437,0.01,
+2026-27,MIL,4,12,14.008,14.056,Tyler Herro,Tyler Herro; Kyle Kuzma; Jaime Jaquez Jr.,14.142,0.086,
+2026-27,MIN,4,14,14.22,14.283,Anthony Edwards,Anthony Edwards; Rudy Gobert; Jaden McDaniels,15.431,0.065,
+2026-27,NOP,3,12,14.154,14.18,Dejounte Murray,Trey Murphy III; Dejounte Murray; Zion Williamson,15.144,0.0,
+2026-27,NYK,4,15,13.724,13.709,Karl-Anthony Towns,Jalen Brunson; OG Anunoby; Josh Hart,14.868,0.002,
+2026-27,OKC,4,14,14.202,14.369,Shai Gilgeous-Alexander,Shai Gilgeous-Alexander; Ajay Mitchell; Jalen Williams,16.439,0.125,
+2026-27,ORL,3,14,13.858,13.818,Paolo Banchero,Jalen Suggs; Franz Wagner; Desmond Bane,14.686,0.0,
+2026-27,PHI,4,13,13.991,14.034,Tyrese Maxey,Tyrese Maxey; Jaylen Brown; Kentavious Caldwell-Pope,16.284,0.018,
+2026-27,PHX,3,15,13.953,13.914,Devin Booker,Devin Booker; Dillon Brooks; Miles Bridges,14.294,0.014,
+2026-27,POR,3,13,14.557,14.593,Deni Avdija,Deni Avdija; Damian Lillard; Ja Morant,14.774,0.122,
+2026-27,SAC,4,13,13.981,14.076,Domantas Sabonis,Domantas Sabonis; Zach LaVine; Darius Acuff Jr.,13.66,0.231,
+2026-27,SAS,4,15,14.324,14.418,Victor Wembanyama,Dylan Harper; Devin Vassell; Victor Wembanyama,15.844,0.019,
+2026-27,TOR,3,14,14.079,14.047,RJ Barrett,RJ Barrett; Scottie Barnes; Immanuel Quickley,15.114,0.078,
+2026-27,UTA,4,14,14.109,14.217,Keyonte George,Keyonte George; Darryn Peterson; Lauri Markkanen,15.049,0.122,
+2026-27,WAS,4,15,14.083,14.114,Trae Young,Trae Young; Anthony Davis; Kyshawn George,14.709,0.002,
