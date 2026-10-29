@@ -1,0 +1,1207 @@
+date,tip_off_et,home_team,away_team,status,home_score,away_score,venue,city,neutral_site,notes,espn_game_id,home_rest_days,home_b2b,home_games_last_7d,away_rest_days,away_b2b,away_games_last_7d
+2026-10-20,15:00,DET,BOS,Final,121,113,Little Caesars Arena,Detroit,False,,401909088,,0.0,0.0,,0.0,0.0
+2026-10-20,19:00,NYK,PHI,Final,100,106,Madison Square Garden,New York,False,,401909089,,0.0,0.0,,0.0,0.0
+2026-10-20,21:50,SAS,OKC,Final,104,116,Frost Bank Center,San Antonio,False,,401909090,,0.0,0.0,,0.0,0.0
+2026-10-21,19:00,ORL,ATL,Final,125,132,Kia Center,Orlando,False,,401909834,,0.0,0.0,,0.0,0.0
+2026-10-21,19:00,WAS,MIL,Final,128,116,Capital One Arena,Washington,False,,401909835,,0.0,0.0,,0.0,0.0
+2026-10-21,19:30,BKN,CHA,Final,103,110,Barclays Center,Brooklyn,False,,401909836,,0.0,0.0,,0.0,0.0
+2026-10-21,19:30,MIA,MIN,Final,106,131,Kaseya Center,Miami,False,,401909091,,0.0,0.0,,0.0,0.0
+2026-10-21,19:30,TOR,CHI,Final,135,92,Scotiabank Arena,Toronto,False,,401909837,,0.0,0.0,,0.0,0.0
+2026-10-21,20:00,MEM,UTA,Final,123,103,FedExForum,Memphis,False,,401909838,,0.0,0.0,,0.0,0.0
+2026-10-21,20:00,NOP,IND,Final,120,123,Smoothie King Center,New Orleans,False,,401909839,,0.0,0.0,,0.0,0.0
+2026-10-21,20:30,HOU,DAL,Final,128,110,Toyota Center (Houston),Houston,False,,401909840,,0.0,0.0,,0.0,0.0
+2026-10-21,22:00,LAL,GSW,Final,127,105,crypto.com Arena,Los Angeles,False,,401909092,,0.0,0.0,,0.0,0.0
+2026-10-21,22:00,POR,PHX,Final,124,83,Moda Center,Portland,False,,401909841,,0.0,0.0,,0.0,0.0
+2026-10-21,22:30,LAC,SAC,Final,121,96,Intuit Dome,Inglewood,False,,401909842,,0.0,0.0,,0.0,0.0
+2026-10-22,19:00,PHI,CLE,Final,114,106,Xfinity Mobile Arena,Philadelphia,False,,401909093,1.0,0.0,1.0,,0.0,0.0
+2026-10-22,21:30,OKC,DEN,Final,96,84,Paycom Center,Oklahoma City,False,,401909094,1.0,0.0,1.0,,0.0,0.0
+2026-10-23,16:00,MIL,CHI,Final,125,132,Fiserv Forum,Milwaukee,False,,401909848,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,19:00,BOS,NYK,Final,107,103,TD Garden,Boston,False,,401909095,2.0,0.0,1.0,2.0,0.0,1.0
+2026-10-23,19:00,CHA,ATL,Final,81,128,Spectrum Center,Charlotte,False,,401909843,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,19:00,IND,DAL,Final,105,121,Gainbridge Fieldhouse,Indianapolis,False,,401909844,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,19:00,ORL,MIN,Final,93,115,Kia Center,Orlando,False,,401909845,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,19:00,WAS,TOR,Final,102,112,Capital One Arena,Washington,False,,401909846,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,20:00,MIA,DET,Final,111,128,Kaseya Center,Miami,False,,401909847,1.0,0.0,1.0,2.0,0.0,1.0
+2026-10-23,21:30,SAS,HOU,Final,110,114,Moody Center,Austin,False,,401909096,2.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,21:30,UTA,NOP,Final,120,119,Delta Center,Salt Lake City,False,,401909849,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,22:00,GSW,MEM,Final,108,111,Chase Center,San Francisco,False,,401909850,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,22:00,LAL,LAC,Final,125,117,crypto.com Arena,Los Angeles,False,,401909851,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-23,22:00,SAC,POR,Final,120,128,Golden 1 Center,Sacramento,False,,401909852,1.0,0.0,1.0,1.0,0.0,1.0
+2026-10-24,18:00,CHA,MIA,Final,115,110,Spectrum Center,Charlotte,False,,401909853,0.0,1.0,2.0,0.0,1.0,2.0
+2026-10-24,19:30,CLE,BKN,Final,125,121,Rocket Arena,Cleveland,False,,401909854,1.0,0.0,1.0,2.0,0.0,1.0
+2026-10-24,19:30,PHI,MIL,Final,127,116,Xfinity Mobile Arena,Philadelphia,False,,401909855,1.0,0.0,2.0,0.0,1.0,2.0
+2026-10-24,20:00,CHI,WAS,Final,120,124,United Center,Chicago,False,,401909857,0.0,1.0,2.0,0.0,1.0,2.0
+2026-10-24,20:00,DAL,SAS,Final,106,122,American Airlines Center,Dallas,False,,401909858,0.0,1.0,2.0,0.0,1.0,2.0
+2026-10-24,20:30,ATL,HOU,Final,114,121,State Farm Arena,Atlanta,False,,401909856,0.0,1.0,2.0,0.0,1.0,2.0
+2026-10-24,21:00,DEN,NOP,Final,141,135,Ball Arena,Denver,False,,401909859,1.0,0.0,1.0,0.0,1.0,2.0
+2026-10-24,22:00,PHX,GSW,Final,131,122,Mortgage Matchup Center,Phoenix,False,,401909860,2.0,0.0,1.0,0.0,1.0,2.0
+2026-10-25,17:00,UTA,LAL,Final,123,132,Delta Center,Salt Lake City,False,,401909861,1.0,0.0,2.0,1.0,0.0,2.0
+2026-10-25,18:00,BKN,IND,Final,109,136,Barclays Center,Brooklyn,False,,401909862,0.0,1.0,2.0,1.0,0.0,2.0
+2026-10-25,19:00,MIN,TOR,Final,117,94,Target Center,Minneapolis,False,,401909864,1.0,0.0,2.0,1.0,0.0,2.0
+2026-10-25,19:00,NYK,ORL,Final,102,111,Madison Square Garden,New York,False,,401909863,1.0,0.0,2.0,1.0,0.0,2.0
+2026-10-25,19:00,OKC,LAC,Final,108,101,Paycom Center,Oklahoma City,False,,401909865,2.0,0.0,2.0,1.0,0.0,2.0
+2026-10-25,19:30,PHI,DET,Final,93,106,Xfinity Mobile Arena,Philadelphia,False,,401909866,0.0,1.0,3.0,1.0,0.0,2.0
+2026-10-25,21:00,SAC,MEM,Final,112,123,Golden 1 Center,Sacramento,False,,401909867,1.0,0.0,2.0,1.0,0.0,2.0
+2026-10-26,19:00,CHA,WAS,Final,110,103,Spectrum Center,Charlotte,False,,401909868,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-26,19:00,CLE,MIN,Final,127,125,Rocket Arena,Cleveland,False,,401909869,1.0,0.0,2.0,0.0,1.0,3.0
+2026-10-26,19:30,BOS,CHI,Final,134,99,TD Garden,Boston,False,,401909870,2.0,0.0,2.0,1.0,0.0,3.0
+2026-10-26,19:30,MIA,DAL,Final,109,113,Kaseya Center,Miami,False,,401909871,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-26,20:00,MIL,IND,Final,110,102,Fiserv Forum,Milwaukee,False,,401909872,1.0,0.0,3.0,0.0,1.0,3.0
+2026-10-26,20:00,OKC,PHX,Final,125,114,Paycom Center,Oklahoma City,False,,401909873,0.0,1.0,3.0,1.0,0.0,2.0
+2026-10-26,20:30,HOU,ATL,Final,120,110,Toyota Center (Houston),Houston,False,,401909874,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-26,21:00,UTA,MEM,Final,105,110,Delta Center,Salt Lake City,False,,401909875,0.0,1.0,3.0,0.0,1.0,3.0
+2026-10-26,22:00,DEN,GSW,Final,114,134,Ball Arena,Denver,False,,401909876,1.0,0.0,2.0,1.0,0.0,3.0
+2026-10-27,19:30,BOS,BKN,Final,125,124,TD Garden,Boston,False,,401909877,0.0,1.0,3.0,1.0,0.0,3.0
+2026-10-27,20:00,NYK,DET,Final,111,97,Madison Square Garden,New York,False,,401909878,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-27,20:00,SAS,SAC,Final,130,103,Frost Bank Center,San Antonio,False,,401909879,2.0,0.0,3.0,1.0,0.0,3.0
+2026-10-27,23:00,LAL,POR,Final,129,136,crypto.com Arena,Los Angeles,False,,401909880,1.0,0.0,3.0,3.0,0.0,2.0
+2026-10-28,19:00,ATL,MIA,Scheduled,0,0,State Farm Arena,Atlanta,False,,401909881,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-28,19:00,CLE,WAS,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909882,1.0,0.0,3.0,1.0,0.0,4.0
+2026-10-28,19:00,DET,CHA,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401909883,0.0,1.0,3.0,1.0,0.0,4.0
+2026-10-28,19:00,IND,PHI,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401909884,1.0,0.0,4.0,2.0,0.0,3.0
+2026-10-28,19:30,TOR,ORL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401909885,2.0,0.0,3.0,2.0,0.0,3.0
+2026-10-28,20:00,CHI,NYK,Scheduled,0,0,United Center,Chicago,False,,401909886,1.0,0.0,4.0,0.0,1.0,3.0
+2026-10-28,20:00,MIL,HOU,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401909887,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-28,20:00,MIN,GSW,Scheduled,0,0,Target Center,Minneapolis,False,,401909888,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-28,20:00,NOP,DEN,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909889,3.0,0.0,3.0,1.0,0.0,3.0
+2026-10-28,21:00,UTA,SAS,Scheduled,0,0,Delta Center,Salt Lake City,False,,401909890,1.0,0.0,4.0,0.0,1.0,3.0
+2026-10-28,21:30,DAL,OKC,Scheduled,0,0,American Airlines Center,Dallas,False,,401909891,1.0,0.0,4.0,1.0,0.0,3.0
+2026-10-28,22:30,LAC,LAL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401909892,2.0,0.0,3.0,0.0,1.0,4.0
+2026-10-29,20:00,ATL,CLE,Scheduled,0,0,State Farm Arena,Atlanta,False,,401909893,0.0,1.0,4.0,0.0,1.0,4.0
+2026-10-29,20:00,NOP,SAC,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909894,0.0,1.0,3.0,1.0,0.0,3.0
+2026-10-29,22:00,POR,MEM,Scheduled,0,0,Moda Center,Portland,False,,401909895,1.0,0.0,2.0,2.0,0.0,3.0
+2026-10-30,19:00,WAS,CHA,Scheduled,0,0,Capital One Arena,Washington,False,NBA Cup - Group Play,401909277,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-30,19:30,BKN,DET,Scheduled,0,0,Barclays Center,Brooklyn,False,NBA Cup - Group Play,401909279,2.0,0.0,3.0,1.0,0.0,4.0
+2026-10-30,19:30,BOS,CHI,Scheduled,0,0,TD Garden,Boston,False,NBA Cup - Group Play,401909278,2.0,0.0,3.0,1.0,0.0,4.0
+2026-10-30,19:30,PHI,NYK,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,NBA Cup - Group Play,401909280,1.0,0.0,3.0,1.0,0.0,4.0
+2026-10-30,19:30,TOR,ORL,Scheduled,0,0,Scotiabank Arena,Toronto,False,NBA Cup - Group Play,401909281,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-30,20:00,DAL,HOU,Scheduled,0,0,American Airlines Center,Dallas,False,NBA Cup - Group Play,401909283,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-30,20:00,MIA,IND,Scheduled,0,0,Kaseya Center,Miami,False,NBA Cup - Group Play,401909282,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-30,20:00,MIN,LAC,Scheduled,0,0,Target Center,Minneapolis,False,NBA Cup - Group Play,401909284,1.0,0.0,4.0,1.0,0.0,3.0
+2026-10-30,22:00,GSW,LAL,Scheduled,0,0,Chase Center,San Francisco,False,NBA Cup - Group Play,401909285,1.0,0.0,4.0,1.0,0.0,4.0
+2026-10-30,22:00,PHX,DEN,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,NBA Cup - Group Play,401909286,3.0,0.0,2.0,1.0,0.0,3.0
+2026-10-31,15:00,UTA,POR,Scheduled,0,0,Delta Center,Salt Lake City,False,,401909896,2.0,0.0,3.0,1.0,0.0,2.0
+2026-10-31,18:00,CHA,PHI,Scheduled,0,0,Spectrum Center,Charlotte,False,,401909897,0.0,1.0,4.0,0.0,1.0,4.0
+2026-10-31,19:00,NOP,ATL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909898,1.0,0.0,3.0,1.0,0.0,4.0
+2026-10-31,20:00,MEM,SAC,Scheduled,0,0,FedExForum,Memphis,False,,401909899,1.0,0.0,3.0,1.0,0.0,3.0
+2026-10-31,20:00,MIL,CLE,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401909900,2.0,0.0,3.0,1.0,0.0,4.0
+2026-10-31,20:00,SAS,MIN,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401909901,2.0,0.0,3.0,0.0,1.0,4.0
+2026-10-31,20:30,HOU,OKC,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401909902,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-01,15:30,ORL,BOS,Scheduled,0,0,Kia Center,Orlando,False,,401909903,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-01,17:00,IND,BKN,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401909904,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-01,20:30,GSW,LAC,Scheduled,0,0,Chase Center,San Francisco,False,,401909905,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-01,21:00,LAL,TOR,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401909906,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-02,19:00,CLE,OKC,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909907,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-02,19:30,CHA,DET,Scheduled,0,0,Spectrum Center,Charlotte,False,,401909908,1.0,0.0,4.0,2.0,0.0,3.0
+2026-11-02,19:30,IND,ATL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401909909,0.0,1.0,4.0,1.0,0.0,4.0
+2026-11-02,19:30,NYK,BKN,Scheduled,0,0,Madison Square Garden,New York,False,,401909910,2.0,0.0,3.0,0.0,1.0,3.0
+2026-11-02,19:30,ORL,WAS,Scheduled,0,0,Kia Center,Orlando,False,,401909911,0.0,1.0,3.0,2.0,0.0,3.0
+2026-11-02,19:30,PHI,CHI,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401909912,1.0,0.0,3.0,2.0,0.0,3.0
+2026-11-02,20:00,DAL,SAC,Scheduled,0,0,American Airlines Center,Dallas,False,,401909913,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-02,20:00,MEM,NOP,Scheduled,0,0,FedExForum,Memphis,False,,401909914,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-02,20:00,MIN,MIL,Scheduled,0,0,Target Center,Minneapolis,False,,401909915,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-02,20:30,HOU,BOS,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401909916,1.0,0.0,4.0,0.0,1.0,4.0
+2026-11-02,20:30,SAS,UTA,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401909917,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-02,21:00,DEN,POR,Scheduled,0,0,Ball Arena,Denver,False,,401909918,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-02,22:00,GSW,PHX,Scheduled,0,0,Chase Center,San Francisco,False,,401909919,0.0,1.0,4.0,2.0,0.0,2.0
+2026-11-02,22:00,LAC,TOR,Scheduled,0,0,Intuit Dome,Inglewood,False,,401909920,0.0,1.0,3.0,0.0,1.0,3.0
+2026-11-02,22:00,LAL,MIA,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401909921,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-04,19:00,DET,PHI,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401909922,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,19:00,WAS,ATL,Scheduled,0,0,Capital One Arena,Washington,False,,401909923,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,19:30,BKN,CHA,Scheduled,0,0,Barclays Center,Brooklyn,False,,401909925,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,19:30,BOS,MIL,Scheduled,0,0,TD Garden,Boston,False,,401909924,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-04,19:30,NYK,CHI,Scheduled,0,0,Madison Square Garden,New York,False,,401909926,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-04,20:00,MEM,IND,Scheduled,0,0,FedExForum,Memphis,False,,401909927,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,20:00,NOP,UTA,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909928,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-04,20:00,OKC,CLE,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401909929,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,20:30,HOU,MIN,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401909930,1.0,0.0,4.0,1.0,0.0,4.0
+2026-11-04,21:00,DEN,TOR,Scheduled,0,0,Ball Arena,Denver,False,,401909931,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,21:00,PHX,POR,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909932,1.0,0.0,2.0,1.0,0.0,3.0
+2026-11-04,21:30,SAS,DAL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401909933,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-04,22:00,SAC,LAL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401909934,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-04,22:30,LAC,MIA,Scheduled,0,0,Intuit Dome,Inglewood,False,,401909935,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-05,21:00,PHX,ORL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909936,0.0,1.0,3.0,2.0,0.0,3.0
+2026-11-05,22:00,GSW,MIA,Scheduled,0,0,Chase Center,San Francisco,False,,401909937,2.0,0.0,3.0,0.0,1.0,3.0
+2026-11-06,19:00,ATL,WAS,Scheduled,0,0,State Farm Arena,Atlanta,False,NBA Cup - Group Play,401909287,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-06,19:00,CHA,BOS,Scheduled,0,0,Spectrum Center,Charlotte,False,NBA Cup - Group Play,401909288,1.0,0.0,4.0,1.0,0.0,4.0
+2026-11-06,19:30,CLE,PHI,Scheduled,0,0,Rocket Arena,Cleveland,False,NBA Cup - Group Play,401909289,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-06,20:00,DAL,UTA,Scheduled,0,0,American Airlines Center,Dallas,False,NBA Cup - Group Play,401909290,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-06,20:00,MEM,OKC,Scheduled,0,0,FedExForum,Memphis,False,NBA Cup - Group Play,401909291,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-06,20:00,MIL,TOR,Scheduled,0,0,Fiserv Forum,Milwaukee,False,NBA Cup - Group Play,401909292,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-06,20:00,NOP,MIN,Scheduled,0,0,Smoothie King Center,New Orleans,False,NBA Cup - Group Play,401909293,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-06,22:00,LAL,POR,Scheduled,0,0,crypto.com Arena,Los Angeles,False,NBA Cup - Group Play,401909294,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-06,22:00,SAC,SAS,Scheduled,0,0,Golden 1 Center,Sacramento,False,NBA Cup - Group Play,401909295,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-07,17:00,IND,DEN,Scheduled,0,0,Arena CDMX,Mexico City,True,NBA Mexico City Game,401909938,2.0,0.0,3.0,2.0,0.0,2.0
+2026-11-07,19:30,ATL,BKN,Scheduled,0,0,State Farm Arena,Atlanta,False,,401909939,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-07,20:00,CLE,NYK,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909940,0.0,1.0,4.0,2.0,0.0,2.0
+2026-11-07,20:00,OKC,WAS,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401909941,0.0,1.0,4.0,0.0,1.0,3.0
+2026-11-07,20:30,GSW,ORL,Scheduled,0,0,Chase Center,San Francisco,False,,401909942,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-07,21:00,PHX,HOU,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909943,1.0,0.0,3.0,2.0,0.0,3.0
+2026-11-07,22:00,POR,SAS,Scheduled,0,0,Moda Center,Portland,False,,401909944,0.0,1.0,4.0,0.0,1.0,4.0
+2026-11-08,15:30,CHI,PHI,Scheduled,0,0,United Center,Chicago,False,,401909945,3.0,0.0,2.0,1.0,0.0,3.0
+2026-11-08,18:00,DET,LAL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401909946,3.0,0.0,2.0,1.0,0.0,4.0
+2026-11-08,19:00,MIN,UTA,Scheduled,0,0,Target Center,Minneapolis,False,,401909947,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-08,19:30,DAL,BKN,Scheduled,0,0,American Airlines Center,Dallas,False,,401909948,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-08,20:00,MIL,BOS,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401909949,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-08,21:00,LAC,NOP,Scheduled,0,0,Intuit Dome,Inglewood,False,,401909950,3.0,0.0,3.0,1.0,0.0,3.0
+2026-11-08,21:00,SAC,MIA,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401909951,1.0,0.0,3.0,2.0,0.0,3.0
+2026-11-09,19:00,ATL,LAL,Scheduled,0,0,State Farm Arena,Atlanta,False,,401909952,1.0,0.0,4.0,0.0,1.0,4.0
+2026-11-09,19:00,CHA,CLE,Scheduled,0,0,Spectrum Center,Charlotte,False,,401909953,2.0,0.0,3.0,1.0,0.0,4.0
+2026-11-09,19:00,DET,WAS,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401909954,0.0,1.0,3.0,1.0,0.0,4.0
+2026-11-09,19:30,TOR,MEM,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401909955,2.0,0.0,3.0,2.0,0.0,3.0
+2026-11-09,20:00,DAL,IND,Scheduled,0,0,American Airlines Center,Dallas,False,,401909956,0.0,1.0,4.0,1.0,0.0,3.0
+2026-11-09,20:30,HOU,DEN,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401909957,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-09,21:00,PHX,SAS,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909958,1.0,0.0,4.0,1.0,0.0,4.0
+2026-11-09,22:00,GSW,NOP,Scheduled,0,0,Chase Center,San Francisco,False,,401909959,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-10,19:30,NYK,MIL,Scheduled,0,0,Madison Square Garden,New York,False,,401909960,2.0,0.0,2.0,1.0,0.0,3.0
+2026-11-10,20:00,PHI,BOS,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401909961,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-10,21:00,PHX,LAC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909962,0.0,1.0,4.0,1.0,0.0,2.0
+2026-11-10,21:00,UTA,MIA,Scheduled,0,0,Delta Center,Salt Lake City,False,,401909963,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-10,22:00,SAC,ORL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401909964,1.0,0.0,3.0,2.0,0.0,2.0
+2026-11-10,23:00,POR,OKC,Scheduled,0,0,Moda Center,Portland,False,,401909965,2.0,0.0,3.0,2.0,0.0,3.0
+2026-11-11,19:00,IND,WAS,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401909966,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-11,19:00,NYK,CLE,Scheduled,0,0,Madison Square Garden,New York,False,,401909967,0.0,1.0,3.0,1.0,0.0,4.0
+2026-11-11,19:00,TOR,BOS,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401909968,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-11,20:00,CHI,SAS,Scheduled,0,0,United Center,Chicago,False,,401909969,2.0,0.0,2.0,1.0,0.0,4.0
+2026-11-11,20:00,MEM,DEN,Scheduled,0,0,FedExForum,Memphis,False,,401909970,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-11,20:00,MIL,LAL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401909971,0.0,1.0,4.0,1.0,0.0,4.0
+2026-11-11,20:00,NOP,BKN,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909972,1.0,0.0,4.0,2.0,0.0,3.0
+2026-11-11,21:00,UTA,ORL,Scheduled,0,0,Delta Center,Salt Lake City,False,,401909973,0.0,1.0,4.0,0.0,1.0,3.0
+2026-11-11,21:30,HOU,GSW,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401909974,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-11,22:00,POR,OKC,Scheduled,0,0,Moda Center,Portland,False,,401909975,0.0,1.0,4.0,0.0,1.0,4.0
+2026-11-12,19:00,PHI,TOR,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401909976,1.0,0.0,3.0,0.0,1.0,3.0
+2026-11-12,19:00,WAS,DET,Scheduled,0,0,Capital One Arena,Washington,False,,401909977,0.0,1.0,4.0,2.0,0.0,2.0
+2026-11-12,20:00,MIN,DAL,Scheduled,0,0,Target Center,Minneapolis,False,,401909978,3.0,0.0,2.0,2.0,0.0,3.0
+2026-11-12,21:00,PHX,CHA,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909979,1.0,0.0,4.0,2.0,0.0,2.0
+2026-11-13,19:00,IND,NYK,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,NBA Cup - Group Play,401909296,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-13,19:00,ORL,MIL,Scheduled,0,0,Kia Center,Orlando,False,NBA Cup - Group Play,401909297,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-13,20:00,CHI,ATL,Scheduled,0,0,United Center,Chicago,False,NBA Cup - Group Play,401909299,1.0,0.0,2.0,3.0,0.0,3.0
+2026-11-13,20:00,MIA,CLE,Scheduled,0,0,Kaseya Center,Miami,False,NBA Cup - Group Play,401909298,2.0,0.0,2.0,1.0,0.0,4.0
+2026-11-13,20:00,NOP,MEM,Scheduled,0,0,Smoothie King Center,New Orleans,False,NBA Cup - Group Play,401909300,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-13,20:30,HOU,UTA,Scheduled,0,0,Toyota Center (Houston),Houston,False,NBA Cup - Group Play,401909301,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-13,21:30,SAS,GSW,Scheduled,0,0,Frost Bank Center,San Antonio,False,NBA Cup - Group Play,401909302,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-13,22:00,SAC,POR,Scheduled,0,0,Golden 1 Center,Sacramento,False,NBA Cup - Group Play,401909303,2.0,0.0,3.0,1.0,0.0,4.0
+2026-11-13,22:30,LAC,OKC,Scheduled,0,0,Intuit Dome,Inglewood,False,NBA Cup - Group Play,401909304,2.0,0.0,2.0,1.0,0.0,4.0
+2026-11-14,19:00,NOP,DEN,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401909980,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-14,19:30,CLE,DAL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909981,0.0,1.0,4.0,1.0,0.0,3.0
+2026-11-14,20:00,MEM,BKN,Scheduled,0,0,FedExForum,Memphis,False,,401909983,0.0,1.0,3.0,2.0,0.0,3.0
+2026-11-14,20:00,MIA,DET,Scheduled,0,0,Kaseya Center,Miami,False,,401909982,0.0,1.0,3.0,1.0,0.0,3.0
+2026-11-14,20:00,MIN,CHI,Scheduled,0,0,Target Center,Minneapolis,False,,401909984,1.0,0.0,2.0,0.0,1.0,3.0
+2026-11-15,13:00,PHI,IND,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401909985,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-15,16:00,PHX,LAL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401909986,2.0,0.0,3.0,3.0,0.0,3.0
+2026-11-15,16:30,LAC,CHA,Scheduled,0,0,Intuit Dome,Inglewood,False,,401909987,1.0,0.0,3.0,2.0,0.0,2.0
+2026-11-15,17:00,UTA,SAS,Scheduled,0,0,Delta Center,Salt Lake City,False,,401909988,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-15,18:00,BOS,DAL,Scheduled,0,0,TD Garden,Boston,False,,401909989,3.0,0.0,3.0,0.0,1.0,4.0
+2026-11-15,18:00,TOR,NYK,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401909990,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-15,19:00,WAS,HOU,Scheduled,0,0,Capital One Arena,Washington,False,,401909991,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-15,20:00,MIL,ATL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401909992,1.0,0.0,4.0,1.0,0.0,2.0
+2026-11-15,21:00,SAC,OKC,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401909993,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-16,19:00,BOS,ORL,Scheduled,0,0,TD Garden,Boston,False,,401909994,0.0,1.0,3.0,2.0,0.0,3.0
+2026-11-16,19:00,CLE,CHI,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909995,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-16,19:00,WAS,MEM,Scheduled,0,0,Capital One Arena,Washington,False,,401909996,0.0,1.0,4.0,1.0,0.0,4.0
+2026-11-16,19:30,BKN,PHI,Scheduled,0,0,Barclays Center,Brooklyn,False,,401909997,1.0,0.0,2.0,0.0,1.0,3.0
+2026-11-16,19:30,MIA,HOU,Scheduled,0,0,Kaseya Center,Miami,False,,401909998,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-16,20:00,MIN,POR,Scheduled,0,0,Target Center,Minneapolis,False,,401909999,1.0,0.0,2.0,2.0,0.0,3.0
+2026-11-16,20:00,NOP,GSW,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910000,1.0,0.0,4.0,2.0,0.0,3.0
+2026-11-16,21:00,DEN,PHX,Scheduled,0,0,Ball Arena,Denver,False,,401910001,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-17,19:30,TOR,NYK,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910002,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-17,20:00,MIN,POR,Scheduled,0,0,Target Center,Minneapolis,False,,401910003,0.0,1.0,3.0,0.0,1.0,4.0
+2026-11-17,20:00,SAS,DET,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910004,1.0,0.0,3.0,2.0,0.0,2.0
+2026-11-17,22:00,LAL,CHA,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910005,1.0,0.0,2.0,1.0,0.0,2.0
+2026-11-17,23:00,LAC,UTA,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910006,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-18,19:00,CLE,MEM,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910007,1.0,0.0,4.0,1.0,0.0,4.0
+2026-11-18,19:00,IND,HOU,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910008,2.0,0.0,3.0,1.0,0.0,4.0
+2026-11-18,19:00,MIA,MIL,Scheduled,0,0,Kaseya Center,Miami,False,,401910009,1.0,0.0,3.0,2.0,0.0,3.0
+2026-11-18,19:00,ORL,PHI,Scheduled,0,0,Kia Center,Orlando,False,,401910010,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-18,19:30,BKN,CHI,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910011,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-18,19:30,TOR,WAS,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910012,0.0,1.0,4.0,1.0,0.0,4.0
+2026-11-18,20:00,NOP,DET,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910013,1.0,0.0,4.0,0.0,1.0,3.0
+2026-11-18,20:00,OKC,ATL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910014,2.0,0.0,3.0,2.0,0.0,2.0
+2026-11-18,21:00,DEN,BOS,Scheduled,0,0,Ball Arena,Denver,False,,401910015,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-18,21:30,DAL,GSW,Scheduled,0,0,American Airlines Center,Dallas,False,,401910016,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-18,22:00,LAL,UTA,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910017,0.0,1.0,3.0,0.0,1.0,4.0
+2026-11-18,22:00,SAC,PHX,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910018,2.0,0.0,2.0,1.0,0.0,3.0
+2026-11-19,20:00,MEM,GSW,Scheduled,0,0,FedExForum,Memphis,False,,401910019,0.0,1.0,4.0,0.0,1.0,3.0
+2026-11-19,20:00,MIL,POR,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910020,0.0,1.0,3.0,1.0,0.0,3.0
+2026-11-19,20:00,MIN,NYK,Scheduled,0,0,Target Center,Minneapolis,False,,401910021,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-19,20:00,SAS,LAC,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910022,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-20,19:00,ATL,CHA,Scheduled,0,0,State Farm Arena,Atlanta,False,NBA Cup - Group Play,401909305,1.0,0.0,3.0,2.0,0.0,2.0
+2026-11-20,19:30,BKN,ORL,Scheduled,0,0,Barclays Center,Brooklyn,False,NBA Cup - Group Play,401909306,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-20,19:30,CLE,IND,Scheduled,0,0,Rocket Arena,Cleveland,False,NBA Cup - Group Play,401909307,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-20,19:30,DET,TOR,Scheduled,0,0,Little Caesars Arena,Detroit,False,NBA Cup - Group Play,401909308,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-20,20:00,CHI,WAS,Scheduled,0,0,United Center,Chicago,False,NBA Cup - Group Play,401909309,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-20,20:00,OKC,NOP,Scheduled,0,0,Paycom Center,Oklahoma City,False,NBA Cup - Group Play,401909310,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-20,21:30,UTA,PHX,Scheduled,0,0,Delta Center,Salt Lake City,False,NBA Cup - Group Play,401909311,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-20,22:00,DEN,HOU,Scheduled,0,0,Ball Arena,Denver,False,NBA Cup - Group Play,401909312,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-20,22:00,LAL,SAC,Scheduled,0,0,crypto.com Arena,Los Angeles,False,NBA Cup - Group Play,401909313,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-21,13:00,PHI,MIL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910023,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-21,19:30,NYK,POR,Scheduled,0,0,Madison Square Garden,New York,False,,401910024,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-21,20:00,DAL,LAC,Scheduled,0,0,American Airlines Center,Dallas,False,,401910025,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-21,20:00,MIN,MEM,Scheduled,0,0,Target Center,Minneapolis,False,,401910026,1.0,0.0,4.0,1.0,0.0,4.0
+2026-11-21,20:00,SAS,NOP,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910027,1.0,0.0,3.0,0.0,1.0,4.0
+2026-11-21,22:00,SAC,BOS,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910028,0.0,1.0,3.0,2.0,0.0,3.0
+2026-11-22,15:30,ATL,DET,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910029,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-22,18:00,MIA,OKC,Scheduled,0,0,Kaseya Center,Miami,False,,401910030,3.0,0.0,2.0,1.0,0.0,3.0
+2026-11-22,19:00,CHI,DEN,Scheduled,0,0,United Center,Chicago,False,,401910032,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-22,19:00,UTA,DAL,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910033,1.0,0.0,4.0,0.0,1.0,3.0
+2026-11-22,19:00,WAS,ORL,Scheduled,0,0,Capital One Arena,Washington,False,,401910031,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-22,20:00,NYK,IND,Scheduled,0,0,Madison Square Garden,New York,False,,401910034,0.0,1.0,4.0,1.0,0.0,3.0
+2026-11-22,20:30,GSW,BOS,Scheduled,0,0,Chase Center,San Francisco,False,,401910035,2.0,0.0,3.0,0.0,1.0,4.0
+2026-11-23,19:00,CHA,MEM,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910036,2.0,0.0,2.0,1.0,0.0,4.0
+2026-11-23,19:00,PHI,POR,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910037,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-23,19:30,IND,OKC,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910038,0.0,1.0,3.0,0.0,1.0,3.0
+2026-11-23,19:30,MIN,BKN,Scheduled,0,0,Target Center,Minneapolis,False,,401910040,1.0,0.0,4.0,2.0,0.0,3.0
+2026-11-23,19:30,TOR,MIL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910039,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-23,20:00,CHI,CLE,Scheduled,0,0,United Center,Chicago,False,,401910041,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-23,20:00,NOP,PHX,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910042,1.0,0.0,4.0,2.0,0.0,3.0
+2026-11-23,20:30,HOU,LAC,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910043,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-23,22:00,LAL,UTA,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910044,2.0,0.0,3.0,0.0,1.0,4.0
+2026-11-23,22:00,SAC,SAS,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910045,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-24,19:00,ORL,DET,Scheduled,0,0,Kia Center,Orlando,False,NBA Cup - Group Play,401909314,1.0,0.0,3.0,1.0,0.0,4.0
+2026-11-24,20:00,WAS,BOS,Scheduled,0,0,Capital One Arena,Washington,False,NBA Cup - Group Play,401909315,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-24,22:00,DEN,DAL,Scheduled,0,0,Ball Arena,Denver,False,NBA Cup - Group Play,401909316,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-25,17:00,PHI,MIA,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,NBA Cup - Group Play,401909317,1.0,0.0,3.0,2.0,0.0,2.0
+2026-11-25,19:00,CHA,CHI,Scheduled,0,0,Spectrum Center,Charlotte,False,NBA Cup - Group Play,401909318,1.0,0.0,2.0,1.0,0.0,4.0
+2026-11-25,19:30,NYK,CLE,Scheduled,0,0,Madison Square Garden,New York,False,NBA Cup - Group Play,401909319,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-25,19:30,OKC,MIN,Scheduled,0,0,Paycom Center,Oklahoma City,False,NBA Cup - Group Play,401909320,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-25,20:00,MEM,LAC,Scheduled,0,0,FedExForum,Memphis,False,NBA Cup - Group Play,401909321,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-25,20:00,MIL,BKN,Scheduled,0,0,Fiserv Forum,Milwaukee,False,NBA Cup - Group Play,401909322,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-25,20:30,HOU,PHX,Scheduled,0,0,Toyota Center (Houston),Houston,False,NBA Cup - Group Play,401909323,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-25,22:00,GSW,SAC,Scheduled,0,0,Chase Center,San Francisco,False,NBA Cup - Group Play,401909324,2.0,0.0,3.0,1.0,0.0,4.0
+2026-11-25,22:00,POR,SAS,Scheduled,0,0,Moda Center,Portland,False,NBA Cup - Group Play,401909325,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-27,19:00,NYK,MIA,Scheduled,0,0,Madison Square Garden,New York,False,NBA Cup - Group Play,401909326,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-27,19:30,DET,MIL,Scheduled,0,0,Little Caesars Arena,Detroit,False,NBA Cup - Group Play,401909327,2.0,0.0,3.0,1.0,0.0,3.0
+2026-11-27,19:30,IND,PHI,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,NBA Cup - Group Play,401909328,3.0,0.0,3.0,1.0,0.0,3.0
+2026-11-27,19:30,TOR,BKN,Scheduled,0,0,Scotiabank Arena,Toronto,False,NBA Cup - Group Play,401909329,3.0,0.0,2.0,1.0,0.0,3.0
+2026-11-27,20:00,BOS,ATL,Scheduled,0,0,TD Garden,Boston,False,NBA Cup - Group Play,401909330,2.0,0.0,3.0,4.0,0.0,2.0
+2026-11-27,20:30,MIN,MEM,Scheduled,0,0,Target Center,Minneapolis,False,NBA Cup - Group Play,401909331,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-27,21:00,PHX,DAL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,NBA Cup - Group Play,401909332,1.0,0.0,3.0,2.0,0.0,3.0
+2026-11-27,21:30,LAC,NOP,Scheduled,0,0,Intuit Dome,Inglewood,False,NBA Cup - Group Play,401909335,1.0,0.0,3.0,3.0,0.0,3.0
+2026-11-27,21:30,POR,GSW,Scheduled,0,0,Moda Center,Portland,False,NBA Cup - Group Play,401909336,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-27,21:30,SAS,LAL,Scheduled,0,0,Frost Bank Center,San Antonio,False,NBA Cup - Group Play,401909333,1.0,0.0,3.0,3.0,0.0,2.0
+2026-11-27,21:30,UTA,DEN,Scheduled,0,0,Delta Center,Salt Lake City,False,NBA Cup - Group Play,401909334,3.0,0.0,3.0,2.0,0.0,3.0
+2026-11-28,17:00,WAS,ORL,Scheduled,0,0,Capital One Arena,Washington,False,,401910046,3.0,0.0,2.0,3.0,0.0,2.0
+2026-11-28,18:00,CHA,BKN,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910047,2.0,0.0,2.0,0.0,1.0,3.0
+2026-11-28,20:00,CHI,IND,Scheduled,0,0,United Center,Chicago,False,,401910048,2.0,0.0,3.0,0.0,1.0,3.0
+2026-11-28,20:00,MIL,OKC,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910049,0.0,1.0,4.0,2.0,0.0,3.0
+2026-11-28,20:30,HOU,PHI,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910050,2.0,0.0,2.0,0.0,1.0,4.0
+2026-11-29,16:00,MEM,LAL,Scheduled,0,0,FedExForum,Memphis,False,,401910051,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-29,16:00,SAS,BOS,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910052,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-29,17:00,UTA,PHX,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910053,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-29,18:00,CLE,MIA,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910054,3.0,0.0,2.0,1.0,0.0,3.0
+2026-11-29,18:00,DET,ORL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910055,1.0,0.0,3.0,0.0,1.0,3.0
+2026-11-29,18:00,NYK,ATL,Scheduled,0,0,Madison Square Garden,New York,False,,401910056,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-29,18:00,POR,NOP,Scheduled,0,0,Moda Center,Portland,False,,401910058,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-29,18:00,TOR,DEN,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910057,1.0,0.0,2.0,1.0,0.0,3.0
+2026-11-29,20:30,GSW,LAC,Scheduled,0,0,Chase Center,San Francisco,False,,401910059,1.0,0.0,3.0,1.0,0.0,3.0
+2026-11-29,21:00,SAC,MIN,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910060,3.0,0.0,2.0,1.0,0.0,3.0
+2026-11-30,19:00,CHA,WAS,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910061,1.0,0.0,3.0,1.0,0.0,2.0
+2026-11-30,19:00,DET,DEN,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910062,0.0,1.0,3.0,0.0,1.0,3.0
+2026-11-30,19:30,BKN,OKC,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910063,1.0,0.0,4.0,1.0,0.0,3.0
+2026-11-30,19:30,HOU,LAL,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910064,1.0,0.0,3.0,0.0,1.0,3.0
+2026-11-30,20:00,DAL,BOS,Scheduled,0,0,American Airlines Center,Dallas,False,,401910065,2.0,0.0,2.0,0.0,1.0,3.0
+2026-11-30,20:00,MIL,SAS,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910066,1.0,0.0,4.0,0.0,1.0,4.0
+2026-11-30,22:00,SAC,NOP,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910067,0.0,1.0,3.0,0.0,1.0,3.0
+2026-12-01,19:00,CLE,IND,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910068,1.0,0.0,2.0,2.0,0.0,2.0
+2026-12-01,19:00,PHI,MEM,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910069,2.0,0.0,3.0,1.0,0.0,3.0
+2026-12-01,19:30,MIA,ATL,Scheduled,0,0,Kaseya Center,Miami,False,,401910070,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-01,20:00,CHI,NYK,Scheduled,0,0,United Center,Chicago,False,,401910071,2.0,0.0,2.0,1.0,0.0,3.0
+2026-12-01,20:30,HOU,TOR,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910072,0.0,1.0,3.0,1.0,0.0,2.0
+2026-12-01,21:00,PHX,LAC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910073,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-01,22:00,POR,MIN,Scheduled,0,0,Moda Center,Portland,False,,401910074,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-01,23:00,GSW,UTA,Scheduled,0,0,Chase Center,San Francisco,False,,401910075,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-02,19:00,DET,MEM,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910076,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-02,19:00,PHI,DEN,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910077,0.0,1.0,4.0,1.0,0.0,3.0
+2026-12-02,19:30,BOS,CHA,Scheduled,0,0,TD Garden,Boston,False,,401910078,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-02,20:00,DAL,ORL,Scheduled,0,0,American Airlines Center,Dallas,False,,401910079,1.0,0.0,2.0,2.0,0.0,2.0
+2026-12-02,20:00,MIL,NYK,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910080,1.0,0.0,4.0,0.0,1.0,4.0
+2026-12-02,20:00,NOP,LAL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910081,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-02,20:00,OKC,BKN,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910082,1.0,0.0,3.0,1.0,0.0,4.0
+2026-12-02,21:00,PHX,SAC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910083,0.0,1.0,4.0,1.0,0.0,3.0
+2026-12-02,22:30,LAC,MIN,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910084,0.0,1.0,4.0,0.0,1.0,4.0
+2026-12-03,19:00,ATL,IND,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910085,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-03,19:30,MIA,WAS,Scheduled,0,0,Kaseya Center,Miami,False,,401910086,1.0,0.0,3.0,2.0,0.0,2.0
+2026-12-03,20:00,CHI,CLE,Scheduled,0,0,United Center,Chicago,False,,401910087,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-03,20:00,SAS,TOR,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910088,2.0,0.0,3.0,1.0,0.0,3.0
+2026-12-03,22:00,POR,UTA,Scheduled,0,0,Moda Center,Portland,False,,401910089,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-04,00:00,TBD,TBD,Scheduled,0,0,,,False,NBA Cup - Quarterfinals,401909450,,,,,,
+2026-12-04,00:00,TBD,TBD,Scheduled,0,0,,,False,NBA Cup - Quarterfinals,401909451,,,,,,
+2026-12-05,00:00,TBD,TBD,Scheduled,0,0,,,False,NBA Cup - Quarterfinals,401909452,,,,,,
+2026-12-05,00:00,TBD,TBD,Scheduled,0,0,,,False,NBA Cup - Quarterfinals,401909453,,,,,,
+2026-12-08,00:00,TBD,TBD,Scheduled,0,0,,,False,NBA Cup - Semifinals,401909454,,,,,,
+2026-12-11,00:00,TBD,TBD,Scheduled,0,0,Hinkle Fieldhouse,Indianapolis,True,NBA Cup Championship,401909456,,,,,,
+2026-12-12,17:00,MEM,MIL,Scheduled,0,0,FedExForum,Memphis,False,,401910090,9.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,19:00,WAS,CHA,Scheduled,0,0,Capital One Arena,Washington,False,,401910091,8.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,19:30,PHI,ORL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910092,9.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,20:00,CLE,GSW,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910093,8.0,0.0,0.0,10.0,0.0,0.0
+2026-12-12,20:30,MIA,NYK,Scheduled,0,0,Kaseya Center,Miami,False,,401910094,8.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,21:00,PHX,MIN,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910095,9.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,21:30,UTA,DEN,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910096,8.0,0.0,0.0,9.0,0.0,0.0
+2026-12-12,22:00,POR,ATL,Scheduled,0,0,Moda Center,Portland,False,,401910097,8.0,0.0,0.0,8.0,0.0,0.0
+2026-12-13,15:00,BKN,BOS,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910098,10.0,0.0,0.0,10.0,0.0,0.0
+2026-12-13,15:30,OKC,TOR,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910099,10.0,0.0,0.0,9.0,0.0,0.0
+2026-12-13,17:00,IND,DET,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910100,9.0,0.0,0.0,10.0,0.0,0.0
+2026-12-13,18:00,CHI,HOU,Scheduled,0,0,United Center,Chicago,False,,401910101,9.0,0.0,0.0,11.0,0.0,0.0
+2026-12-13,19:00,SAS,LAC,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910102,9.0,0.0,0.0,10.0,0.0,0.0
+2026-12-13,21:00,SAC,NOP,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910103,10.0,0.0,0.0,10.0,0.0,0.0
+2026-12-14,19:00,CHA,TOR,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910104,1.0,0.0,1.0,0.0,1.0,1.0
+2026-12-14,19:00,DET,BKN,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910105,0.0,1.0,1.0,0.0,1.0,1.0
+2026-12-14,19:00,ORL,PHI,Scheduled,0,0,Kia Center,Orlando,False,,401910106,1.0,0.0,1.0,1.0,0.0,1.0
+2026-12-14,19:30,BOS,WAS,Scheduled,0,0,TD Garden,Boston,False,,401910107,0.0,1.0,1.0,1.0,0.0,1.0
+2026-12-14,20:00,CHI,MIA,Scheduled,0,0,United Center,Chicago,False,,401910108,0.0,1.0,1.0,1.0,0.0,1.0
+2026-12-14,20:00,DAL,MIL,Scheduled,0,0,American Airlines Center,Dallas,False,,401910109,11.0,0.0,0.0,1.0,0.0,1.0
+2026-12-14,20:00,MEM,GSW,Scheduled,0,0,FedExForum,Memphis,False,,401910110,1.0,0.0,1.0,1.0,0.0,1.0
+2026-12-14,20:30,HOU,NYK,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910111,0.0,1.0,1.0,1.0,0.0,1.0
+2026-12-14,21:00,PHX,ATL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910112,1.0,0.0,1.0,1.0,0.0,1.0
+2026-12-14,21:00,UTA,MIN,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910113,1.0,0.0,1.0,1.0,0.0,1.0
+2026-12-14,22:00,LAL,NOP,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910114,11.0,0.0,0.0,0.0,1.0,1.0
+2026-12-15,20:00,CLE,SAS,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910115,2.0,0.0,1.0,1.0,0.0,1.0
+2026-12-15,23:00,POR,DEN,Scheduled,0,0,Moda Center,Portland,False,,401910116,2.0,0.0,1.0,2.0,0.0,1.0
+2026-12-16,19:00,BOS,WAS,Scheduled,0,0,TD Garden,Boston,False,,401910117,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,19:00,CHA,LAC,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910118,1.0,0.0,2.0,2.0,0.0,1.0
+2026-12-16,19:00,DET,PHX,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910119,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,19:00,IND,GSW,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910120,2.0,0.0,1.0,1.0,0.0,2.0
+2026-12-16,19:00,ORL,CLE,Scheduled,0,0,Kia Center,Orlando,False,,401910121,1.0,0.0,2.0,0.0,1.0,2.0
+2026-12-16,19:30,BKN,DAL,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910122,1.0,0.0,2.0,1.0,0.0,1.0
+2026-12-16,19:30,TOR,SAS,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910123,1.0,0.0,2.0,0.0,1.0,2.0
+2026-12-16,20:00,CHI,UTA,Scheduled,0,0,United Center,Chicago,False,,401910124,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,20:00,MEM,MIA,Scheduled,0,0,FedExForum,Memphis,False,,401910125,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,20:00,NOP,NYK,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910126,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,20:00,OKC,SAC,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910127,2.0,0.0,1.0,2.0,0.0,1.0
+2026-12-16,20:30,HOU,MIL,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910128,1.0,0.0,2.0,1.0,0.0,2.0
+2026-12-16,21:30,MIN,LAL,Scheduled,0,0,Target Center,Minneapolis,False,,401910129,1.0,0.0,2.0,1.0,0.0,1.0
+2026-12-17,19:00,IND,POR,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910130,0.0,1.0,2.0,1.0,0.0,2.0
+2026-12-17,19:00,PHI,DAL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910131,2.0,0.0,2.0,0.0,1.0,2.0
+2026-12-17,21:00,DEN,ATL,Scheduled,0,0,Ball Arena,Denver,False,,401910132,1.0,0.0,2.0,2.0,0.0,2.0
+2026-12-18,19:00,CHA,OKC,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910133,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-18,19:00,MIA,LAC,Scheduled,0,0,Kaseya Center,Miami,False,,401910134,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-18,19:00,WAS,NYK,Scheduled,0,0,Capital One Arena,Washington,False,,401910135,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,19:30,BKN,ORL,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910137,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,19:30,BOS,UTA,Scheduled,0,0,TD Garden,Boston,False,,401910136,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,19:30,DET,CLE,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910138,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,19:30,TOR,GSW,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910139,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,20:00,MEM,HOU,Scheduled,0,0,FedExForum,Memphis,False,,401910140,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,20:00,MIL,PHX,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910141,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-18,20:00,MIN,LAL,Scheduled,0,0,Target Center,Minneapolis,False,,401910142,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-18,20:00,NOP,SAC,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910143,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-18,20:00,SAS,CHI,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910144,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-19,18:00,CHA,POR,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910145,0.0,1.0,4.0,1.0,0.0,3.0
+2026-12-19,19:00,ATL,ORL,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910146,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-19,20:00,DAL,CHI,Scheduled,0,0,American Airlines Center,Dallas,False,,401910147,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-19,21:00,DEN,LAL,Scheduled,0,0,Ball Arena,Denver,False,,401910148,1.0,0.0,3.0,0.0,1.0,3.0
+2026-12-20,15:00,BKN,WAS,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910149,1.0,0.0,4.0,1.0,0.0,3.0
+2026-12-20,15:30,TOR,HOU,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910150,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-20,16:00,MEM,PHX,Scheduled,0,0,FedExForum,Memphis,False,,401910151,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-20,18:00,CLE,UTA,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910152,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-20,18:00,MIA,SAC,Scheduled,0,0,Kaseya Center,Miami,False,,401910153,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-20,19:00,ATL,OKC,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910154,0.0,1.0,3.0,1.0,0.0,3.0
+2026-12-20,19:00,NOP,SAS,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910155,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-20,20:00,BOS,DET,Scheduled,0,0,TD Garden,Boston,False,,401910156,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-20,20:00,MIL,GSW,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910157,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-20,22:00,LAC,IND,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910158,1.0,0.0,3.0,2.0,0.0,3.0
+2026-12-21,19:00,CHA,PHI,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910159,1.0,0.0,4.0,3.0,0.0,2.0
+2026-12-21,19:00,CLE,NYK,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910160,0.0,1.0,4.0,2.0,0.0,3.0
+2026-12-21,19:00,ORL,SAC,Scheduled,0,0,Kia Center,Orlando,False,,401910161,1.0,0.0,4.0,0.0,1.0,3.0
+2026-12-21,19:30,BKN,POR,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910162,0.0,1.0,4.0,1.0,0.0,3.0
+2026-12-21,19:30,MIA,CHI,Scheduled,0,0,Kaseya Center,Miami,False,,401910163,0.0,1.0,4.0,1.0,0.0,4.0
+2026-12-21,20:00,MIN,PHX,Scheduled,0,0,Target Center,Minneapolis,False,,401910164,2.0,0.0,3.0,0.0,1.0,4.0
+2026-12-21,20:00,NOP,MEM,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910165,0.0,1.0,4.0,0.0,1.0,4.0
+2026-12-21,20:00,SAS,MIL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910166,0.0,1.0,4.0,0.0,1.0,4.0
+2026-12-21,22:00,LAL,IND,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910167,1.0,0.0,4.0,0.0,1.0,3.0
+2026-12-21,22:30,LAC,DEN,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910168,0.0,1.0,3.0,1.0,0.0,3.0
+2026-12-22,19:00,WAS,TOR,Scheduled,0,0,Capital One Arena,Washington,False,,401910169,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-22,20:00,OKC,DET,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910170,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-22,22:30,GSW,DAL,Scheduled,0,0,Chase Center,San Francisco,False,,401910171,1.0,0.0,3.0,2.0,0.0,3.0
+2026-12-23,19:00,ATL,DET,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910172,2.0,0.0,3.0,0.0,1.0,4.0
+2026-12-23,19:00,ORL,CHA,Scheduled,0,0,Kia Center,Orlando,False,,401910173,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-23,19:00,WAS,CLE,Scheduled,0,0,Capital One Arena,Washington,False,,401910174,0.0,1.0,4.0,1.0,0.0,4.0
+2026-12-23,19:30,BKN,SAS,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910176,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-23,19:30,BOS,POR,Scheduled,0,0,TD Garden,Boston,False,,401910175,2.0,0.0,3.0,1.0,0.0,3.0
+2026-12-23,19:30,MIA,CHI,Scheduled,0,0,Kaseya Center,Miami,False,,401910177,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-23,19:30,NYK,UTA,Scheduled,0,0,Madison Square Garden,New York,False,,401910178,1.0,0.0,3.0,2.0,0.0,3.0
+2026-12-23,19:30,PHI,HOU,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910179,1.0,0.0,2.0,2.0,0.0,3.0
+2026-12-23,20:00,MEM,TOR,Scheduled,0,0,FedExForum,Memphis,False,,401910180,1.0,0.0,4.0,0.0,1.0,4.0
+2026-12-23,20:00,MIL,MIN,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910181,1.0,0.0,4.0,1.0,0.0,3.0
+2026-12-23,20:00,NOP,OKC,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910182,1.0,0.0,4.0,0.0,1.0,4.0
+2026-12-23,21:00,PHX,IND,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910183,1.0,0.0,4.0,1.0,0.0,4.0
+2026-12-23,22:00,LAL,DEN,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910184,1.0,0.0,4.0,1.0,0.0,3.0
+2026-12-23,22:00,SAC,DAL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910185,1.0,0.0,4.0,0.0,1.0,4.0
+2026-12-23,22:30,LAC,GSW,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910186,1.0,0.0,4.0,0.0,1.0,4.0
+2026-12-25,12:00,NYK,SAS,Scheduled,0,0,Madison Square Garden,New York,False,,401909097,1.0,0.0,3.0,1.0,0.0,4.0
+2026-12-25,14:30,BOS,MIA,Scheduled,0,0,TD Garden,Boston,False,,401909098,1.0,0.0,3.0,1.0,0.0,4.0
+2026-12-25,17:00,LAL,PHI,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401909099,1.0,0.0,4.0,1.0,0.0,2.0
+2026-12-25,20:00,MIN,OKC,Scheduled,0,0,Target Center,Minneapolis,False,,401909100,1.0,0.0,3.0,1.0,0.0,4.0
+2026-12-25,22:30,GSW,DEN,Scheduled,0,0,Chase Center,San Francisco,False,,401909101,1.0,0.0,4.0,1.0,0.0,3.0
+2026-12-26,13:00,WAS,POR,Scheduled,0,0,Capital One Arena,Washington,False,,401910187,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,15:30,ATL,CHA,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910188,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,17:00,UTA,IND,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910189,2.0,0.0,2.0,2.0,0.0,3.0
+2026-12-26,18:00,BKN,NOP,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910190,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,19:00,ORL,TOR,Scheduled,0,0,Kia Center,Orlando,False,,401910191,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,20:00,CHI,DET,Scheduled,0,0,United Center,Chicago,False,,401910192,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,20:00,DAL,PHX,Scheduled,0,0,American Airlines Center,Dallas,False,,401910193,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-26,22:30,LAC,MEM,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910194,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-27,15:30,HOU,OKC,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910195,3.0,0.0,2.0,1.0,0.0,4.0
+2026-12-27,18:00,CLE,WAS,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910196,3.0,0.0,3.0,0.0,1.0,4.0
+2026-12-27,18:00,MIA,CHA,Scheduled,0,0,Kaseya Center,Miami,False,,401910197,1.0,0.0,4.0,0.0,1.0,3.0
+2026-12-27,18:00,NYK,BKN,Scheduled,0,0,Madison Square Garden,New York,False,,401910198,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-27,18:00,ORL,MIL,Scheduled,0,0,Kia Center,Orlando,False,,401910199,0.0,1.0,3.0,3.0,0.0,3.0
+2026-12-27,18:00,SAC,UTA,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910200,3.0,0.0,3.0,0.0,1.0,3.0
+2026-12-27,19:00,DET,POR,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910201,0.0,1.0,4.0,0.0,1.0,3.0
+2026-12-27,19:00,SAS,ATL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910202,1.0,0.0,4.0,0.0,1.0,3.0
+2026-12-27,20:00,DEN,IND,Scheduled,0,0,Ball Arena,Denver,False,,401910203,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-27,20:30,GSW,MIN,Scheduled,0,0,Chase Center,San Francisco,False,,401910204,1.0,0.0,4.0,1.0,0.0,3.0
+2026-12-27,21:00,LAC,PHI,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910205,0.0,1.0,4.0,1.0,0.0,3.0
+2026-12-27,21:00,LAL,MEM,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910206,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-28,19:30,TOR,NOP,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910207,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-28,20:00,BOS,CLE,Scheduled,0,0,TD Garden,Boston,False,,401910208,2.0,0.0,2.0,0.0,1.0,3.0
+2026-12-28,21:00,PHX,GSW,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910209,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-28,22:30,DEN,MIN,Scheduled,0,0,Ball Arena,Denver,False,,401910210,0.0,1.0,4.0,0.0,1.0,4.0
+2026-12-29,19:00,ATL,CHI,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910211,1.0,0.0,3.0,2.0,0.0,2.0
+2026-12-29,19:00,CHA,ORL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910212,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-29,19:00,IND,LAC,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910213,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-29,20:00,DAL,MIA,Scheduled,0,0,American Airlines Center,Dallas,False,,401910214,2.0,0.0,3.0,1.0,0.0,3.0
+2026-12-29,20:00,MEM,SAS,Scheduled,0,0,FedExForum,Memphis,False,,401910215,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-29,20:00,OKC,MIL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910216,1.0,0.0,4.0,1.0,0.0,2.0
+2026-12-29,22:00,POR,BKN,Scheduled,0,0,Moda Center,Portland,False,,401910217,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-29,22:00,SAC,PHI,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910218,1.0,0.0,2.0,1.0,0.0,3.0
+2026-12-29,22:30,LAL,HOU,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910219,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-30,19:00,DET,NOP,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910220,2.0,0.0,3.0,1.0,0.0,3.0
+2026-12-30,19:30,TOR,WAS,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910221,1.0,0.0,3.0,2.0,0.0,3.0
+2026-12-30,20:00,CHI,BOS,Scheduled,0,0,United Center,Chicago,False,,401910222,0.0,1.0,3.0,1.0,0.0,3.0
+2026-12-30,21:00,PHX,PHI,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910223,1.0,0.0,3.0,0.0,1.0,4.0
+2026-12-30,21:00,UTA,NYK,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910224,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-30,22:00,GSW,HOU,Scheduled,0,0,Chase Center,San Francisco,False,,401910225,1.0,0.0,4.0,0.0,1.0,3.0
+2026-12-31,13:00,CHA,SAS,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910226,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-31,15:00,ATL,MIL,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910227,1.0,0.0,3.0,1.0,0.0,2.0
+2026-12-31,15:00,CLE,LAC,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910228,2.0,0.0,2.0,1.0,0.0,3.0
+2026-12-31,15:00,IND,ORL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910229,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-31,16:00,MIN,DEN,Scheduled,0,0,Target Center,Minneapolis,False,,401910230,2.0,0.0,3.0,2.0,0.0,3.0
+2026-12-31,18:00,SAC,BKN,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910231,1.0,0.0,2.0,1.0,0.0,3.0
+2026-12-31,20:00,NOP,LAL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910232,0.0,1.0,3.0,1.0,0.0,3.0
+2026-12-31,20:00,OKC,MIA,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910233,1.0,0.0,3.0,1.0,0.0,3.0
+2026-12-31,21:00,PHX,NYK,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910234,0.0,1.0,3.0,0.0,1.0,3.0
+2027-01-01,17:00,WAS,SAS,Scheduled,0,0,Capital One Arena,Washington,False,,401910235,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-01,19:30,DET,ORL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910236,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-01,19:30,TOR,LAC,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910237,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-01,20:00,MIL,PHI,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910238,0.0,1.0,3.0,1.0,0.0,4.0
+2027-01-01,20:30,HOU,DAL,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910239,1.0,0.0,3.0,2.0,0.0,2.0
+2027-01-01,21:30,UTA,BOS,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910240,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-02,13:00,CHA,CLE,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910241,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-02,17:00,DEN,NYK,Scheduled,0,0,Ball Arena,Denver,False,,401910242,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-02,19:00,IND,MIN,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910243,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-02,19:00,NOP,MIA,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910244,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-02,19:30,ATL,DAL,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910245,1.0,0.0,4.0,0.0,1.0,3.0
+2027-01-02,20:00,CHI,LAL,Scheduled,0,0,United Center,Chicago,False,,401910246,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-02,20:00,OKC,UTA,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910247,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-02,20:30,GSW,BKN,Scheduled,0,0,Chase Center,San Francisco,False,,401910248,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-02,21:00,PHX,SAC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910249,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-02,22:00,POR,BOS,Scheduled,0,0,Moda Center,Portland,False,,401910250,3.0,0.0,3.0,0.0,1.0,3.0
+2027-01-03,17:00,DEN,DET,Scheduled,0,0,Ball Arena,Denver,False,,401910251,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-03,17:30,MIL,CHA,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910252,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-03,18:00,ORL,MEM,Scheduled,0,0,Kia Center,Orlando,False,,401910253,1.0,0.0,4.0,4.0,0.0,2.0
+2027-01-03,19:00,HOU,CLE,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910256,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-03,19:00,MIN,SAS,Scheduled,0,0,Target Center,Minneapolis,False,,401910257,0.0,1.0,4.0,1.0,0.0,4.0
+2027-01-03,19:00,TOR,LAL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910254,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-03,19:00,WAS,LAC,Scheduled,0,0,Capital One Arena,Washington,False,,401910255,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-03,20:00,OKC,SAC,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910258,0.0,1.0,4.0,0.0,1.0,4.0
+2027-01-04,19:00,IND,CHI,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910259,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-04,19:00,PHI,ATL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910260,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-04,20:00,NOP,DAL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910261,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-04,21:00,PHX,BOS,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910262,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-04,21:00,UTA,BKN,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910263,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-04,22:00,POR,NYK,Scheduled,0,0,Moda Center,Portland,False,,401910264,1.0,0.0,2.0,1.0,0.0,3.0
+2027-01-05,19:00,CHA,ATL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910265,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-05,19:00,CLE,TOR,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910266,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-05,19:00,ORL,LAC,Scheduled,0,0,Kia Center,Orlando,False,,401910267,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-05,19:00,WAS,LAL,Scheduled,0,0,Capital One Arena,Washington,False,,401910268,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-05,19:30,MIA,MEM,Scheduled,0,0,Kaseya Center,Miami,False,,401910269,2.0,0.0,3.0,1.0,0.0,2.0
+2027-01-05,20:00,CHI,MIL,Scheduled,0,0,United Center,Chicago,False,,401910270,0.0,1.0,4.0,1.0,0.0,4.0
+2027-01-05,20:00,HOU,MIN,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910271,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-05,22:00,DEN,PHX,Scheduled,0,0,Ball Arena,Denver,False,,401910272,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-05,22:00,SAC,DET,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910273,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-06,19:30,BKN,UTA,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910274,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-06,19:30,PHI,OKC,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910275,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-06,20:00,NOP,POR,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910276,1.0,0.0,4.0,1.0,0.0,2.0
+2027-01-06,20:00,SAS,IND,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910277,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-06,22:00,GSW,NYK,Scheduled,0,0,Chase Center,San Francisco,False,,401910278,3.0,0.0,2.0,1.0,0.0,4.0
+2027-01-07,19:00,ATL,IND,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910279,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-07,19:00,CHA,DEN,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910280,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-07,19:00,ORL,CLE,Scheduled,0,0,Kia Center,Orlando,False,,401910281,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-07,19:00,WAS,OKC,Scheduled,0,0,Capital One Arena,Washington,False,,401910282,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-07,19:30,BKN,MIA,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910283,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-07,19:30,TOR,MIN,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910284,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-07,20:00,DAL,POR,Scheduled,0,0,American Airlines Center,Dallas,False,,401910285,2.0,0.0,3.0,0.0,1.0,3.0
+2027-01-07,20:00,MIL,LAC,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910286,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-07,20:30,HOU,MEM,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910287,1.0,0.0,3.0,1.0,0.0,2.0
+2027-01-07,22:00,GSW,DET,Scheduled,0,0,Chase Center,San Francisco,False,,401910288,0.0,1.0,2.0,1.0,0.0,3.0
+2027-01-07,22:00,LAL,BOS,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910289,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-07,22:00,SAC,CHI,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910290,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-08,19:00,PHI,MIA,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910291,1.0,0.0,3.0,0.0,1.0,3.0
+2027-01-08,19:00,WAS,MIN,Scheduled,0,0,Capital One Arena,Washington,False,,401910292,0.0,1.0,4.0,0.0,1.0,4.0
+2027-01-08,19:30,TOR,UTA,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910293,0.0,1.0,4.0,1.0,0.0,4.0
+2027-01-08,20:00,NOP,ORL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910294,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-08,20:00,SAS,MEM,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910295,1.0,0.0,3.0,0.0,1.0,3.0
+2027-01-08,21:30,DAL,PHX,Scheduled,0,0,American Airlines Center,Dallas,False,,401910296,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-08,22:00,LAL,DET,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910297,0.0,1.0,4.0,0.0,1.0,4.0
+2027-01-08,22:00,SAC,NYK,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910298,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-09,17:00,CLE,DEN,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910299,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-09,18:00,BKN,HOU,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910300,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-09,19:00,IND,MIL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910301,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-09,20:30,GSW,CHI,Scheduled,0,0,Chase Center,San Francisco,False,,401910302,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-09,22:00,POR,CHA,Scheduled,0,0,Moda Center,Portland,False,,401910303,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-09,22:30,LAC,BOS,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910304,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-10,15:00,ATL,SAS,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910305,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-10,18:00,DET,UTA,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910306,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-10,18:00,MEM,DAL,Scheduled,0,0,FedExForum,Memphis,False,,401910310,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-10,18:00,MIA,NOP,Scheduled,0,0,Kaseya Center,Miami,False,,401910307,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-10,18:00,ORL,OKC,Scheduled,0,0,Kia Center,Orlando,False,,401910308,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-10,18:00,TOR,PHI,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910309,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-10,19:00,PHX,CHI,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910311,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-10,21:00,SAC,CHA,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910312,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-11,19:00,IND,BKN,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910313,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-11,19:00,WAS,ATL,Scheduled,0,0,Capital One Arena,Washington,False,,401910314,2.0,0.0,3.0,0.0,1.0,4.0
+2027-01-11,19:30,BOS,HOU,Scheduled,0,0,TD Garden,Boston,False,,401910315,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-11,19:30,NYK,DEN,Scheduled,0,0,Madison Square Garden,New York,False,,401910316,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-11,20:00,MIN,CLE,Scheduled,0,0,Target Center,Minneapolis,False,,401910317,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-11,22:00,LAC,LAL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910318,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-12,19:30,MIA,BKN,Scheduled,0,0,Kaseya Center,Miami,False,,401910319,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-12,19:30,TOR,DET,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910320,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-12,20:00,MEM,DAL,Scheduled,0,0,FedExForum,Memphis,False,,401910322,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-12,20:00,MIL,DEN,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910323,2.0,0.0,3.0,0.0,1.0,4.0
+2027-01-12,20:00,PHI,WAS,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910321,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-12,21:00,UTA,CHI,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910324,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-12,22:00,POR,ORL,Scheduled,0,0,Moda Center,Portland,False,,401910325,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-12,23:00,GSW,SAC,Scheduled,0,0,Chase Center,San Francisco,False,,401910326,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-13,19:00,ATL,CLE,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910327,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-13,19:00,BOS,NYK,Scheduled,0,0,TD Garden,Boston,False,,401910328,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-13,19:00,IND,MIL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910329,1.0,0.0,4.0,0.0,1.0,3.0
+2027-01-13,19:30,TOR,PHX,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910330,0.0,1.0,4.0,2.0,0.0,2.0
+2027-01-13,21:30,OKC,HOU,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910331,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-13,22:00,GSW,CHA,Scheduled,0,0,Chase Center,San Francisco,False,,401910332,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-13,22:00,POR,LAL,Scheduled,0,0,Moda Center,Portland,False,,401910333,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-14,14:00,SAS,NOP,Scheduled,0,0,Accor Arena,Paris,True,NBA Paris Game,401910334,3.0,0.0,2.0,3.0,0.0,2.0
+2027-01-14,19:00,DET,DAL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910335,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-14,19:00,PHI,BKN,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910336,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-14,19:30,NYK,MIA,Scheduled,0,0,Madison Square Garden,New York,False,,401910337,0.0,1.0,3.0,1.0,0.0,4.0
+2027-01-14,20:00,CHI,MIN,Scheduled,0,0,United Center,Chicago,False,,401910338,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-14,21:00,DEN,MEM,Scheduled,0,0,Ball Arena,Denver,False,,401910339,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-14,21:00,UTA,CHA,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910340,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-14,22:00,LAL,ORL,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910341,0.0,1.0,4.0,1.0,0.0,4.0
+2027-01-14,22:00,SAC,LAC,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910342,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-15,19:00,ATL,GSW,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910343,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-15,19:00,IND,PHX,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910344,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-15,19:30,TOR,MIA,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910345,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-15,20:00,MIL,CLE,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910346,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-15,20:00,OKC,UTA,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910347,1.0,0.0,2.0,0.0,1.0,4.0
+2027-01-15,20:30,HOU,WAS,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910348,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-15,22:00,POR,SAC,Scheduled,0,0,Moda Center,Portland,False,,401910349,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-15,22:30,LAC,ORL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910350,0.0,1.0,3.0,0.0,1.0,4.0
+2027-01-16,12:30,PHI,MIN,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910351,1.0,0.0,3.0,1.0,0.0,2.0
+2027-01-16,19:00,BOS,BKN,Scheduled,0,0,TD Garden,Boston,False,,401910352,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-16,19:30,NYK,DAL,Scheduled,0,0,Madison Square Garden,New York,False,,401910353,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-16,20:00,MEM,CLE,Scheduled,0,0,FedExForum,Memphis,False,,401910354,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-16,20:30,HOU,DET,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910355,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-16,21:00,DEN,CHA,Scheduled,0,0,Ball Arena,Denver,False,,401910356,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-17,10:30,NOP,SAS,Scheduled,0,0,Co-op Live,Manchester,True,NBA Manchester Game,401910357,2.0,0.0,2.0,2.0,0.0,2.0
+2027-01-17,13:00,WAS,IND,Scheduled,0,0,Capital One Arena,Washington,False,,401910358,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-17,15:30,CHI,TOR,Scheduled,0,0,United Center,Chicago,False,,401910359,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-17,15:30,OKC,POR,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910360,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-17,17:00,UTA,SAC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910361,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-17,18:00,MIA,GSW,Scheduled,0,0,Kaseya Center,Miami,False,,401910362,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-17,20:00,DEN,ORL,Scheduled,0,0,Ball Arena,Denver,False,,401910363,0.0,1.0,4.0,1.0,0.0,4.0
+2027-01-17,21:00,LAL,MIL,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910364,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-18,12:00,CLE,DET,Scheduled,0,0,Rocket Arena,Cleveland,False,,401909473,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-18,14:30,ATL,PHI,Scheduled,0,0,State Farm Arena,Atlanta,False,,401909474,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-18,15:00,WAS,BOS,Scheduled,0,0,Capital One Arena,Washington,False,,401910365,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-18,17:00,NYK,MIN,Scheduled,0,0,Madison Square Garden,New York,False,,401909475,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-18,19:30,MEM,HOU,Scheduled,0,0,FedExForum,Memphis,False,,401909476,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-18,20:00,DAL,OKC,Scheduled,0,0,American Airlines Center,Dallas,False,,401910366,1.0,0.0,3.0,0.0,1.0,3.0
+2027-01-18,22:30,LAC,PHX,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910367,2.0,0.0,3.0,2.0,0.0,2.0
+2027-01-19,19:00,ORL,GSW,Scheduled,0,0,Kia Center,Orlando,False,,401910368,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-19,19:00,PHI,IND,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910369,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-19,19:00,TOR,CHI,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910370,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-19,19:30,MIA,POR,Scheduled,0,0,Kaseya Center,Miami,False,,401910371,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-19,20:00,DAL,CHA,Scheduled,0,0,American Airlines Center,Dallas,False,,401910372,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-19,22:00,DEN,UTA,Scheduled,0,0,Ball Arena,Denver,False,,401910373,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-19,22:00,SAC,LAL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910374,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-20,19:00,ATL,POR,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910375,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-20,19:00,BKN,CHI,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910376,3.0,0.0,2.0,0.0,1.0,3.0
+2027-01-20,19:30,BOS,IND,Scheduled,0,0,TD Garden,Boston,False,,401910377,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-20,19:30,NYK,TOR,Scheduled,0,0,Madison Square Garden,New York,False,,401910378,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-20,20:00,MIN,HOU,Scheduled,0,0,Target Center,Minneapolis,False,,401910379,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-20,20:00,NOP,OKC,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910380,2.0,0.0,2.0,1.0,0.0,4.0
+2027-01-20,21:00,PHX,MEM,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910381,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-20,21:00,UTA,LAC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910382,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-20,21:30,SAS,MIA,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910383,2.0,0.0,2.0,0.0,1.0,4.0
+2027-01-20,22:00,SAC,MIL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910384,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-21,19:30,BKN,CLE,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910386,0.0,1.0,3.0,2.0,0.0,3.0
+2027-01-21,19:30,BOS,PHI,Scheduled,0,0,TD Garden,Boston,False,,401910385,0.0,1.0,3.0,1.0,0.0,4.0
+2027-01-21,21:00,DEN,WAS,Scheduled,0,0,Ball Arena,Denver,False,,401910387,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-21,22:00,GSW,LAL,Scheduled,0,0,Chase Center,San Francisco,False,,401910388,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-22,19:00,ATL,NYK,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910389,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-22,19:00,CHA,HOU,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910390,2.0,0.0,2.0,1.0,0.0,4.0
+2027-01-22,19:00,ORL,POR,Scheduled,0,0,Kia Center,Orlando,False,,401910391,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-22,19:30,DET,IND,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910392,3.0,0.0,2.0,1.0,0.0,4.0
+2027-01-22,20:00,NOP,DAL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910393,1.0,0.0,2.0,2.0,0.0,3.0
+2027-01-22,20:00,OKC,MEM,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910394,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-22,21:00,PHX,UTA,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910395,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-22,21:30,SAS,MIN,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910396,1.0,0.0,2.0,1.0,0.0,3.0
+2027-01-22,22:00,GSW,MIL,Scheduled,0,0,Chase Center,San Francisco,False,,401910397,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-22,22:00,LAL,SAC,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910398,0.0,1.0,3.0,1.0,0.0,4.0
+2027-01-22,22:30,LAC,WAS,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910399,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-23,17:00,CHI,PHI,Scheduled,0,0,United Center,Chicago,False,,401910400,2.0,0.0,3.0,1.0,0.0,4.0
+2027-01-23,18:00,BKN,TOR,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910401,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-23,19:00,BOS,CHA,Scheduled,0,0,TD Garden,Boston,False,,401910402,1.0,0.0,4.0,0.0,1.0,3.0
+2027-01-23,20:00,DAL,CLE,Scheduled,0,0,American Airlines Center,Dallas,False,,401910404,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-23,20:00,MIA,ATL,Scheduled,0,0,Kaseya Center,Miami,False,,401910403,2.0,0.0,3.0,0.0,1.0,3.0
+2027-01-23,21:00,DEN,MIL,Scheduled,0,0,Ball Arena,Denver,False,,401910405,1.0,0.0,4.0,0.0,1.0,3.0
+2027-01-24,15:30,SAS,POR,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910406,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-24,16:00,LAL,WAS,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910408,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-24,16:00,PHX,UTA,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910407,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-24,18:00,DET,MIN,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910409,1.0,0.0,2.0,1.0,0.0,3.0
+2027-01-24,18:00,ORL,HOU,Scheduled,0,0,Kia Center,Orlando,False,,401910410,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-24,19:00,NYK,LAC,Scheduled,0,0,Madison Square Garden,New York,False,,401910411,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-24,20:30,GSW,OKC,Scheduled,0,0,Chase Center,San Francisco,False,,401910412,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-25,19:00,BOS,TOR,Scheduled,0,0,TD Garden,Boston,False,,401910413,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-25,19:00,CHA,ORL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910414,1.0,0.0,3.0,0.0,1.0,3.0
+2027-01-25,19:00,PHI,LAC,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910415,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-25,19:30,BKN,MIA,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910416,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-25,20:00,CHI,DAL,Scheduled,0,0,United Center,Chicago,False,,401910417,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-25,20:00,MEM,MIN,Scheduled,0,0,FedExForum,Memphis,False,,401910418,2.0,0.0,3.0,0.0,1.0,4.0
+2027-01-25,20:00,NOP,CLE,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910419,2.0,0.0,2.0,1.0,0.0,3.0
+2027-01-25,21:30,DEN,SAC,Scheduled,0,0,Ball Arena,Denver,False,,401910420,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-26,19:00,DET,ATL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910421,1.0,0.0,2.0,2.0,0.0,3.0
+2027-01-26,19:00,IND,CHI,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910422,3.0,0.0,3.0,0.0,1.0,4.0
+2027-01-26,19:30,NYK,PHX,Scheduled,0,0,Madison Square Garden,New York,False,,401910423,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-26,20:00,SAS,HOU,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910424,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-26,21:00,UTA,MIL,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910425,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-26,22:00,POR,WAS,Scheduled,0,0,Moda Center,Portland,False,,401910426,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-26,23:00,LAL,OKC,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910427,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-27,19:00,CLE,DET,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910428,1.0,0.0,3.0,0.0,1.0,3.0
+2027-01-27,19:00,PHI,SAC,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910429,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-27,19:30,BKN,PHX,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910431,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-27,19:30,BOS,LAC,Scheduled,0,0,TD Garden,Boston,False,,401910430,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-27,19:30,TOR,DAL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910432,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-27,20:00,SAS,CHA,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910433,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-27,20:30,HOU,NOP,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910434,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-27,21:30,MIN,DEN,Scheduled,0,0,Target Center,Minneapolis,False,,401910435,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-27,22:00,POR,GSW,Scheduled,0,0,Moda Center,Portland,False,,401910436,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-28,19:00,IND,LAL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910437,1.0,0.0,2.0,1.0,0.0,4.0
+2027-01-28,19:00,NYK,ATL,Scheduled,0,0,Madison Square Garden,New York,False,,401910438,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-28,19:00,ORL,CHI,Scheduled,0,0,Kia Center,Orlando,False,,401910439,2.0,0.0,3.0,1.0,0.0,3.0
+2027-01-28,19:00,WAS,SAC,Scheduled,0,0,Capital One Arena,Washington,False,,401910440,1.0,0.0,4.0,0.0,1.0,3.0
+2027-01-28,20:00,NOP,PHI,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910441,0.0,1.0,3.0,0.0,1.0,4.0
+2027-01-28,20:00,OKC,MEM,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910442,1.0,0.0,3.0,2.0,0.0,2.0
+2027-01-28,21:00,UTA,GSW,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910443,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-28,21:30,MIL,MIA,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910444,1.0,0.0,3.0,2.0,0.0,2.0
+2027-01-29,19:00,TOR,CLE,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910445,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-29,19:30,BKN,LAC,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910447,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-29,19:30,BOS,PHX,Scheduled,0,0,TD Garden,Boston,False,,401910446,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-29,20:00,DAL,DET,Scheduled,0,0,American Airlines Center,Dallas,False,,401910448,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-29,20:30,HOU,ORL,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910449,1.0,0.0,4.0,0.0,1.0,4.0
+2027-01-29,21:30,MIN,CHA,Scheduled,0,0,Target Center,Minneapolis,False,,401910450,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-30,12:30,MIA,PHI,Scheduled,0,0,Kaseya Center,Miami,False,,401910451,1.0,0.0,3.0,1.0,0.0,4.0
+2027-01-30,15:00,OKC,DEN,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910452,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-30,17:30,GSW,SAS,Scheduled,0,0,Chase Center,San Francisco,False,,401910453,1.0,0.0,3.0,2.0,0.0,3.0
+2027-01-30,19:00,IND,WAS,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910454,1.0,0.0,2.0,1.0,0.0,3.0
+2027-01-30,19:30,CLE,NOP,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910455,0.0,1.0,4.0,1.0,0.0,3.0
+2027-01-30,20:00,MIL,ATL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910456,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-30,20:30,NYK,LAL,Scheduled,0,0,Madison Square Garden,New York,False,,401910457,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-30,21:30,UTA,MEM,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910458,1.0,0.0,3.0,1.0,0.0,2.0
+2027-01-31,15:00,DET,SAC,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910459,1.0,0.0,4.0,2.0,0.0,3.0
+2027-01-31,18:00,MIN,PHX,Scheduled,0,0,Target Center,Minneapolis,False,,401910462,1.0,0.0,4.0,1.0,0.0,4.0
+2027-01-31,18:00,OKC,CHI,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910463,0.0,1.0,4.0,2.0,0.0,3.0
+2027-01-31,18:00,ORL,BKN,Scheduled,0,0,Kia Center,Orlando,False,,401910460,1.0,0.0,4.0,1.0,0.0,3.0
+2027-01-31,18:00,TOR,BOS,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910461,1.0,0.0,3.0,1.0,0.0,3.0
+2027-01-31,19:00,CHA,LAL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910464,1.0,0.0,3.0,0.0,1.0,4.0
+2027-01-31,20:00,DEN,POR,Scheduled,0,0,Ball Arena,Denver,False,,401910465,0.0,1.0,3.0,3.0,0.0,3.0
+2027-01-31,20:30,DAL,HOU,Scheduled,0,0,American Airlines Center,Dallas,False,,401910466,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-01,19:00,ATL,WAS,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910467,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-01,19:00,PHI,NOP,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910468,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-01,19:30,BKN,NYK,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910469,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-01,19:30,IND,MIA,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910470,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-01,20:00,MIL,MEM,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910471,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-01,21:00,UTA,CLE,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910472,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-01,22:00,GSW,SAS,Scheduled,0,0,Chase Center,San Francisco,False,,401910473,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-02,19:00,DET,CHI,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910474,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-02,19:00,ORL,NOP,Scheduled,0,0,Kia Center,Orlando,False,,401910475,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-02,19:30,MIA,CHA,Scheduled,0,0,Kaseya Center,Miami,False,,401910476,0.0,1.0,3.0,1.0,0.0,3.0
+2027-02-02,20:00,BOS,LAL,Scheduled,0,0,TD Garden,Boston,False,,401910477,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-02,20:00,DAL,TOR,Scheduled,0,0,American Airlines Center,Dallas,False,,401910478,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-02,21:00,DEN,OKC,Scheduled,0,0,Ball Arena,Denver,False,,401910479,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-02,22:30,LAC,SAS,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910480,3.0,0.0,2.0,0.0,1.0,4.0
+2027-02-02,23:00,POR,MIN,Scheduled,0,0,Moda Center,Portland,False,,401910481,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-03,19:00,DET,NYK,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910482,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-03,19:00,IND,ATL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910483,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-03,20:00,MEM,PHI,Scheduled,0,0,FedExForum,Memphis,False,,401910484,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-03,21:00,PHX,CLE,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910485,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-03,21:30,HOU,UTA,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910486,2.0,0.0,3.0,1.0,0.0,3.0
+2027-02-03,22:30,LAC,GSW,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910487,0.0,1.0,3.0,1.0,0.0,4.0
+2027-02-04,19:00,WAS,NOP,Scheduled,0,0,Capital One Arena,Washington,False,,401910488,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-04,19:30,BKN,LAL,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910489,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-04,19:30,CHA,BOS,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910490,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-04,19:30,MIA,MIL,Scheduled,0,0,Kaseya Center,Miami,False,,401910491,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-04,19:30,NYK,TOR,Scheduled,0,0,Madison Square Garden,New York,False,,401910492,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-04,20:00,CHI,OKC,Scheduled,0,0,United Center,Chicago,False,,401910493,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-04,20:00,SAS,ORL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910494,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-04,22:00,DEN,DAL,Scheduled,0,0,Ball Arena,Denver,False,,401910495,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-04,22:00,POR,CLE,Scheduled,0,0,Moda Center,Portland,False,,401910496,1.0,0.0,2.0,0.0,1.0,4.0
+2027-02-04,22:00,SAC,MIN,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910497,3.0,0.0,2.0,1.0,0.0,3.0
+2027-02-05,19:00,ATL,BOS,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910498,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-05,19:00,CHA,GSW,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910499,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-05,19:00,PHI,DET,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910500,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-05,21:00,DEN,LAC,Scheduled,0,0,Ball Arena,Denver,False,,401910501,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-05,21:00,PHX,HOU,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910502,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-05,21:30,OKC,IND,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910503,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-06,15:00,DAL,UTA,Scheduled,0,0,American Airlines Center,Dallas,False,,401910504,1.0,0.0,3.0,2.0,0.0,3.0
+2027-02-06,15:00,MIN,MIA,Scheduled,0,0,Target Center,Minneapolis,False,,401910505,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-06,17:30,MEM,POR,Scheduled,0,0,FedExForum,Memphis,False,,401910506,2.0,0.0,3.0,1.0,0.0,3.0
+2027-02-06,18:00,BKN,WAS,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910507,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-06,19:30,CLE,ORL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910508,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-06,19:30,TOR,MIL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910509,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-06,20:00,CHI,NOP,Scheduled,0,0,United Center,Chicago,False,,401910510,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-06,20:30,SAS,LAL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910511,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-06,22:00,SAC,PHX,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910512,1.0,0.0,2.0,0.0,1.0,3.0
+2027-02-07,15:00,ATL,DEN,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910513,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-07,15:00,DET,GSW,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910514,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-07,15:30,MIN,UTA,Scheduled,0,0,Target Center,Minneapolis,False,,401910515,0.0,1.0,4.0,0.0,1.0,3.0
+2027-02-07,16:30,DAL,LAC,Scheduled,0,0,American Airlines Center,Dallas,False,,401910516,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-07,18:00,TOR,CHA,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910517,0.0,1.0,4.0,1.0,0.0,4.0
+2027-02-07,19:00,PHI,BOS,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910518,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-07,21:30,OKC,NYK,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910519,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-07,22:30,SAC,HOU,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910520,0.0,1.0,3.0,1.0,0.0,3.0
+2027-02-08,19:00,ATL,MIA,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910521,0.0,1.0,4.0,1.0,0.0,4.0
+2027-02-08,19:00,IND,NOP,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910522,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-08,19:00,PHI,BKN,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910523,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-08,19:00,WAS,CHI,Scheduled,0,0,Capital One Arena,Washington,False,,401910524,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-08,20:00,MEM,POR,Scheduled,0,0,FedExForum,Memphis,False,,401910525,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-08,20:00,MIL,ORL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910526,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-08,21:30,PHX,LAL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910527,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-09,19:00,CLE,TOR,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910528,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-09,19:30,BKN,MIN,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910530,0.0,1.0,3.0,1.0,0.0,4.0
+2027-02-09,19:30,BOS,DEN,Scheduled,0,0,TD Garden,Boston,False,,401910529,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-09,19:30,NYK,CHA,Scheduled,0,0,Madison Square Garden,New York,False,,401910531,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-09,20:00,CHI,GSW,Scheduled,0,0,United Center,Chicago,False,,401910532,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-09,20:00,DAL,SAS,Scheduled,0,0,American Airlines Center,Dallas,False,,401910533,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-09,20:00,MIL,SAC,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910534,0.0,1.0,3.0,1.0,0.0,3.0
+2027-02-09,20:00,OKC,POR,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910535,1.0,0.0,4.0,0.0,1.0,4.0
+2027-02-09,22:00,UTA,HOU,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910536,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-09,22:30,LAC,DET,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910537,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-10,19:00,ATL,NOP,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910538,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-10,19:00,IND,CLE,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910539,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-10,19:00,WAS,MIA,Scheduled,0,0,Capital One Arena,Washington,False,,401910540,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-10,19:30,BOS,GSW,Scheduled,0,0,TD Garden,Boston,False,,401910541,0.0,1.0,4.0,0.0,1.0,4.0
+2027-02-10,20:00,MEM,ORL,Scheduled,0,0,FedExForum,Memphis,False,,401910542,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-10,21:00,PHX,DET,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910543,1.0,0.0,4.0,0.0,1.0,4.0
+2027-02-10,22:00,LAL,LAC,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910544,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-11,19:00,CHA,MIL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910545,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-11,19:00,IND,UTA,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910546,0.0,1.0,3.0,1.0,0.0,3.0
+2027-02-11,19:00,PHI,NYK,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910547,2.0,0.0,3.0,1.0,0.0,3.0
+2027-02-11,20:00,DAL,POR,Scheduled,0,0,American Airlines Center,Dallas,False,,401910548,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-11,20:30,HOU,SAC,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910549,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-11,21:00,DEN,CHI,Scheduled,0,0,Ball Arena,Denver,False,,401910550,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-11,21:30,OKC,SAS,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910551,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-12,19:00,ATL,PHX,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910552,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-12,19:00,ORL,MIA,Scheduled,0,0,Kia Center,Orlando,False,,401910553,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-12,19:00,WAS,BKN,Scheduled,0,0,Capital One Arena,Washington,False,,401910554,1.0,0.0,3.0,2.0,0.0,3.0
+2027-02-12,19:30,TOR,CLE,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910555,2.0,0.0,3.0,1.0,0.0,3.0
+2027-02-12,20:00,BOS,MIN,Scheduled,0,0,TD Garden,Boston,False,,401910556,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-12,20:00,MEM,LAC,Scheduled,0,0,FedExForum,Memphis,False,,401910557,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-12,20:00,NOP,HOU,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910558,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-12,22:30,LAL,DEN,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910559,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-13,14:00,IND,SAC,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910560,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-13,15:00,CHA,DAL,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910561,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-13,15:30,POR,DET,Scheduled,0,0,Moda Center,Portland,False,,401910562,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-13,17:30,OKC,PHI,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910563,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-13,19:00,ORL,SAS,Scheduled,0,0,Kia Center,Orlando,False,,401910564,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-13,19:00,WAS,MIL,Scheduled,0,0,Capital One Arena,Washington,False,,401910565,0.0,1.0,4.0,1.0,0.0,4.0
+2027-02-13,20:30,NYK,GSW,Scheduled,0,0,Madison Square Garden,New York,False,,401910566,1.0,0.0,3.0,2.0,0.0,3.0
+2027-02-14,13:00,ATL,SAC,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910567,1.0,0.0,4.0,0.0,1.0,4.0
+2027-02-14,13:00,BOS,TOR,Scheduled,0,0,TD Garden,Boston,False,,401910568,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-14,13:00,CLE,PHX,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910569,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-14,13:00,MIA,BKN,Scheduled,0,0,Kaseya Center,Miami,False,,401910570,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-14,14:00,HOU,DEN,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910571,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-14,14:00,NOP,LAC,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910572,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-14,15:30,POR,CHI,Scheduled,0,0,Moda Center,Portland,False,,401910573,0.0,1.0,4.0,2.0,0.0,3.0
+2027-02-15,12:00,CHA,MIN,Scheduled,0,0,Spectrum Center,Charlotte,False,,401909477,1.0,0.0,3.0,2.0,0.0,2.0
+2027-02-15,14:30,DAL,PHI,Scheduled,0,0,American Airlines Center,Dallas,False,,401909478,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-15,17:00,MIA,SAS,Scheduled,0,0,Kaseya Center,Miami,False,,401909479,0.0,1.0,4.0,1.0,0.0,3.0
+2027-02-15,19:00,WAS,PHX,Scheduled,0,0,Capital One Arena,Washington,False,,401910574,1.0,0.0,4.0,0.0,1.0,4.0
+2027-02-15,19:30,GSW,IND,Scheduled,0,0,Chase Center,San Francisco,False,,401909480,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-15,20:00,MEM,NYK,Scheduled,0,0,FedExForum,Memphis,False,,401910575,2.0,0.0,3.0,1.0,0.0,3.0
+2027-02-15,20:00,OKC,ORL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910576,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-15,21:00,UTA,DET,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910577,3.0,0.0,2.0,1.0,0.0,3.0
+2027-02-16,19:00,CLE,MIL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910578,1.0,0.0,4.0,2.0,0.0,3.0
+2027-02-16,20:00,ATL,TOR,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910579,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-16,22:00,LAL,CHI,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910580,3.0,0.0,2.0,1.0,0.0,3.0
+2027-02-16,22:00,POR,NOP,Scheduled,0,0,Moda Center,Portland,False,,401910581,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-16,23:00,LAC,HOU,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910582,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-17,19:00,CHA,TOR,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910583,1.0,0.0,3.0,0.0,1.0,3.0
+2027-02-17,19:00,CLE,MIL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910584,0.0,1.0,4.0,0.0,1.0,3.0
+2027-02-17,19:00,DET,NYK,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910585,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-17,19:00,ORL,DAL,Scheduled,0,0,Kia Center,Orlando,False,,401910586,1.0,0.0,4.0,1.0,0.0,3.0
+2027-02-17,19:00,PHI,PHX,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910587,1.0,0.0,3.0,1.0,0.0,4.0
+2027-02-17,19:00,WAS,MIA,Scheduled,0,0,Capital One Arena,Washington,False,,401910588,1.0,0.0,4.0,1.0,0.0,4.0
+2027-02-17,19:30,BKN,ATL,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910589,2.0,0.0,2.0,0.0,1.0,4.0
+2027-02-17,20:00,MEM,SAS,Scheduled,0,0,FedExForum,Memphis,False,,401910590,1.0,0.0,3.0,1.0,0.0,3.0
+2027-02-17,21:00,DEN,UTA,Scheduled,0,0,Ball Arena,Denver,False,,401910591,2.0,0.0,3.0,1.0,0.0,2.0
+2027-02-17,21:30,OKC,BOS,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910592,1.0,0.0,3.0,2.0,0.0,3.0
+2027-02-17,22:00,GSW,NOP,Scheduled,0,0,Chase Center,San Francisco,False,,401910593,1.0,0.0,3.0,0.0,1.0,4.0
+2027-02-17,22:00,SAC,IND,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910594,2.0,0.0,3.0,1.0,0.0,4.0
+2027-02-17,22:30,LAC,CHI,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910595,0.0,1.0,4.0,0.0,1.0,3.0
+2027-02-18,19:30,MIN,SAS,Scheduled,0,0,Target Center,Minneapolis,False,,401910596,2.0,0.0,2.0,0.0,1.0,4.0
+2027-02-18,20:00,MEM,BOS,Scheduled,0,0,FedExForum,Memphis,False,,401910597,0.0,1.0,3.0,0.0,1.0,3.0
+2027-02-18,22:00,LAL,HOU,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910598,1.0,0.0,2.0,1.0,0.0,4.0
+2027-02-18,22:00,POR,IND,Scheduled,0,0,Moda Center,Portland,False,,401910599,1.0,0.0,4.0,0.0,1.0,4.0
+2027-02-25,19:00,CLE,SAC,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910600,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,19:00,DET,MIA,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910601,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,19:00,ORL,CHA,Scheduled,0,0,Kia Center,Orlando,False,,401910602,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,19:30,BKN,PHI,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910603,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,19:30,NYK,OKC,Scheduled,0,0,Madison Square Garden,New York,False,,401910604,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,20:00,CHI,ATL,Scheduled,0,0,United Center,Chicago,False,,401910605,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,20:00,MIL,WAS,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910606,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,20:00,NOP,PHX,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910607,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,22:00,GSW,DAL,Scheduled,0,0,Chase Center,San Francisco,False,,401910608,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-25,22:30,LAC,UTA,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910609,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-26,19:30,BOS,CLE,Scheduled,0,0,TD Garden,Boston,False,,401910610,7.0,0.0,0.0,0.0,1.0,1.0
+2027-02-26,19:30,TOR,ATL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910611,8.0,0.0,0.0,0.0,1.0,1.0
+2027-02-26,20:00,MIN,IND,Scheduled,0,0,Target Center,Minneapolis,False,,401910612,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-26,20:00,SAS,MEM,Scheduled,0,0,Moody Center,Austin,False,,401910613,7.0,0.0,0.0,7.0,0.0,0.0
+2027-02-26,20:30,HOU,CHA,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910614,7.0,0.0,0.0,0.0,1.0,1.0
+2027-02-26,22:00,DEN,LAL,Scheduled,0,0,Ball Arena,Denver,False,,401910615,8.0,0.0,0.0,7.0,0.0,0.0
+2027-02-26,22:00,POR,DAL,Scheduled,0,0,Moda Center,Portland,False,,401910616,7.0,0.0,0.0,0.0,1.0,1.0
+2027-02-27,15:00,UTA,WAS,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910617,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-27,17:30,DET,OKC,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910618,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-27,20:00,CHI,BKN,Scheduled,0,0,United Center,Chicago,False,,401910619,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-27,20:00,MEM,SAC,Scheduled,0,0,FedExForum,Memphis,False,,401910620,0.0,1.0,1.0,1.0,0.0,1.0
+2027-02-27,20:30,NYK,PHI,Scheduled,0,0,Madison Square Garden,New York,False,,401910621,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-27,21:00,PHX,NOP,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910622,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-28,13:00,SAS,DEN,Scheduled,0,0,Moody Center,Austin,False,,401910623,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-28,15:30,DAL,LAL,Scheduled,0,0,American Airlines Center,Dallas,False,,401910624,1.0,0.0,2.0,1.0,0.0,1.0
+2027-02-28,16:00,IND,TOR,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910625,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-28,16:30,ORL,ATL,Scheduled,0,0,Kia Center,Orlando,False,,401910626,2.0,0.0,1.0,1.0,0.0,2.0
+2027-02-28,19:00,CHA,SAC,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910627,1.0,0.0,2.0,0.0,1.0,2.0
+2027-02-28,19:00,MIN,BOS,Scheduled,0,0,Target Center,Minneapolis,False,,401910628,1.0,0.0,1.0,1.0,0.0,1.0
+2027-02-28,19:30,NYK,MIL,Scheduled,0,0,Madison Square Garden,New York,False,,401910629,0.0,1.0,2.0,2.0,0.0,1.0
+2027-02-28,21:30,HOU,MIA,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910630,1.0,0.0,1.0,2.0,0.0,1.0
+2027-02-28,22:30,LAC,POR,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910631,2.0,0.0,1.0,1.0,0.0,1.0
+2027-03-01,19:00,CLE,PHI,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910632,2.0,0.0,2.0,1.0,0.0,2.0
+2027-03-01,19:00,DET,CHI,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910633,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-01,20:00,NOP,UTA,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910634,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-01,20:30,HOU,GSW,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910635,0.0,1.0,2.0,3.0,0.0,1.0
+2027-03-01,21:00,DEN,BKN,Scheduled,0,0,Ball Arena,Denver,False,,401910636,0.0,1.0,2.0,1.0,0.0,2.0
+2027-03-01,21:30,PHX,WAS,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910637,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-02,19:00,IND,BOS,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910638,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-02,19:00,ORL,LAL,Scheduled,0,0,Kia Center,Orlando,False,,401910639,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-02,19:30,MIA,TOR,Scheduled,0,0,Kaseya Center,Miami,False,,401910640,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-02,19:30,NYK,MEM,Scheduled,0,0,Madison Square Garden,New York,False,,401910641,1.0,0.0,3.0,2.0,0.0,2.0
+2027-03-02,20:00,DAL,GSW,Scheduled,0,0,American Airlines Center,Dallas,False,,401910642,1.0,0.0,3.0,0.0,1.0,2.0
+2027-03-02,20:00,MIL,DET,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910643,1.0,0.0,2.0,0.0,1.0,3.0
+2027-03-02,20:00,OKC,MIN,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910644,2.0,0.0,2.0,1.0,0.0,2.0
+2027-03-02,22:00,SAC,WAS,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910645,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-02,23:00,POR,LAC,Scheduled,0,0,Moda Center,Portland,False,,401910646,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-03,19:00,ATL,CHI,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910647,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-03,19:00,PHI,CHA,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910648,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-03,19:30,MIA,TOR,Scheduled,0,0,Kaseya Center,Miami,False,,401910649,0.0,1.0,3.0,0.0,1.0,3.0
+2027-03-03,20:00,MIL,UTA,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910650,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-03,20:30,HOU,NOP,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910651,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-03,21:00,PHX,BKN,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910652,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-03,22:00,DEN,SAS,Scheduled,0,0,Ball Arena,Denver,False,,401910653,1.0,0.0,3.0,2.0,0.0,2.0
+2027-03-04,19:00,CLE,POR,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910654,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-04,19:00,ORL,IND,Scheduled,0,0,Kia Center,Orlando,False,,401910655,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-04,19:00,PHI,LAL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910656,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-04,19:30,ATL,MEM,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910657,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-04,21:30,DAL,NYK,Scheduled,0,0,American Airlines Center,Dallas,False,,401910658,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-04,22:00,GSW,WAS,Scheduled,0,0,Chase Center,San Francisco,False,,401910659,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-04,22:00,SAC,OKC,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910660,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-04,22:30,LAC,BKN,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910661,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-05,19:00,DET,BOS,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910662,2.0,0.0,3.0,2.0,0.0,3.0
+2027-03-05,19:00,ORL,UTA,Scheduled,0,0,Kia Center,Orlando,False,,401910663,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-05,19:30,TOR,POR,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910664,1.0,0.0,4.0,0.0,1.0,4.0
+2027-03-05,20:00,NOP,MIL,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910665,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-05,21:00,PHX,MIN,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910666,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-05,21:30,HOU,SAS,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910667,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-06,15:00,MIA,IND,Scheduled,0,0,Kaseya Center,Miami,False,,401910668,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-06,17:00,CHI,CHA,Scheduled,0,0,United Center,Chicago,False,,401910669,2.0,0.0,3.0,2.0,0.0,2.0
+2027-03-06,17:30,CLE,ATL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910670,1.0,0.0,2.0,1.0,0.0,3.0
+2027-03-06,19:00,WAS,UTA,Scheduled,0,0,Capital One Arena,Washington,False,,401910671,1.0,0.0,4.0,0.0,1.0,4.0
+2027-03-06,20:00,MEM,NOP,Scheduled,0,0,FedExForum,Memphis,False,,401910672,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-06,20:30,LAL,OKC,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910673,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-06,22:00,SAC,LAC,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910674,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-07,13:00,BOS,PHI,Scheduled,0,0,TD Garden,Boston,False,,401910675,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-07,15:30,DEN,MIN,Scheduled,0,0,Ball Arena,Denver,False,,401910676,3.0,0.0,3.0,1.0,0.0,3.0
+2027-03-07,17:00,CHI,POR,Scheduled,0,0,United Center,Chicago,False,,401910677,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-07,19:30,SAS,NYK,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910678,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-07,22:00,GSW,HOU,Scheduled,0,0,Chase Center,San Francisco,False,,401910679,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-07,22:30,LAL,BKN,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910680,0.0,1.0,4.0,2.0,0.0,3.0
+2027-03-08,19:00,IND,CHA,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910681,1.0,0.0,3.0,1.0,0.0,2.0
+2027-03-08,19:00,PHI,UTA,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910682,0.0,1.0,4.0,1.0,0.0,4.0
+2027-03-08,19:30,MIA,PHX,Scheduled,0,0,Kaseya Center,Miami,False,,401910683,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-08,20:00,MEM,ATL,Scheduled,0,0,FedExForum,Memphis,False,,401910684,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-08,20:00,MIN,NOP,Scheduled,0,0,Target Center,Minneapolis,False,,401910685,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-08,21:30,OKC,DAL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910686,1.0,0.0,3.0,3.0,0.0,2.0
+2027-03-08,22:00,SAC,DEN,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910687,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-08,22:30,LAC,HOU,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910688,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-09,19:00,ORL,PHX,Scheduled,0,0,Kia Center,Orlando,False,,401910689,3.0,0.0,3.0,0.0,1.0,3.0
+2027-03-09,19:30,BKN,MIL,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910690,1.0,0.0,3.0,3.0,0.0,3.0
+2027-03-09,20:00,CHI,BOS,Scheduled,0,0,United Center,Chicago,False,,401910692,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-09,20:00,DAL,MEM,Scheduled,0,0,American Airlines Center,Dallas,False,,401910693,0.0,1.0,3.0,0.0,1.0,4.0
+2027-03-09,20:00,DET,CLE,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910691,3.0,0.0,2.0,2.0,0.0,2.0
+2027-03-09,20:00,SAS,WAS,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910694,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-09,23:00,GSW,POR,Scheduled,0,0,Chase Center,San Francisco,False,,401910695,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-10,19:00,CHA,NOP,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910696,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-10,19:00,MIA,ORL,Scheduled,0,0,Kaseya Center,Miami,False,,401910697,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-10,19:30,TOR,OKC,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910698,4.0,0.0,2.0,1.0,0.0,3.0
+2027-03-10,21:00,UTA,HOU,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910699,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-10,21:30,MIN,ATL,Scheduled,0,0,Target Center,Minneapolis,False,,401910700,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-10,22:00,POR,DEN,Scheduled,0,0,Moda Center,Portland,False,,401910701,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-10,22:00,SAC,GSW,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910702,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-10,22:30,LAC,NYK,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910703,1.0,0.0,3.0,2.0,0.0,2.0
+2027-03-11,19:00,CHA,IND,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910704,0.0,1.0,3.0,2.0,0.0,3.0
+2027-03-11,19:00,DET,MIL,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910705,1.0,0.0,2.0,1.0,0.0,2.0
+2027-03-11,19:30,BOS,MEM,Scheduled,0,0,TD Garden,Boston,False,,401910706,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-11,19:30,SAS,PHI,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910707,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-11,20:00,ATL,BKN,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910708,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-11,20:00,CHI,PHX,Scheduled,0,0,United Center,Chicago,False,,401910709,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-11,20:00,DAL,WAS,Scheduled,0,0,American Airlines Center,Dallas,False,,401910710,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-11,22:00,LAL,NYK,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910711,3.0,0.0,3.0,0.0,1.0,3.0
+2027-03-11,22:30,LAC,CLE,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910712,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-12,19:30,BOS,OKC,Scheduled,0,0,TD Garden,Boston,False,,401910713,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-12,20:00,MIL,MIA,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910714,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-12,20:00,NOP,TOR,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910715,1.0,0.0,4.0,1.0,0.0,2.0
+2027-03-12,21:30,UTA,SAC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910716,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-12,22:00,DEN,GSW,Scheduled,0,0,Ball Arena,Denver,False,,401910717,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-12,22:00,LAL,CLE,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910718,0.0,1.0,3.0,0.0,1.0,3.0
+2027-03-13,15:00,ATL,ORL,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910719,1.0,0.0,4.0,2.0,0.0,2.0
+2027-03-13,15:00,DET,BKN,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910720,1.0,0.0,2.0,1.0,0.0,3.0
+2027-03-13,17:30,HOU,IND,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910721,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-13,18:00,CHA,PHX,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910722,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-13,20:00,CHI,MEM,Scheduled,0,0,United Center,Chicago,False,,401910723,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-13,20:00,DAL,NOP,Scheduled,0,0,American Airlines Center,Dallas,False,,401910724,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-13,20:30,MIN,PHI,Scheduled,0,0,Target Center,Minneapolis,False,,401910725,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-13,22:30,POR,LAC,Scheduled,0,0,Moda Center,Portland,False,,401910726,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-14,12:00,NYK,BOS,Scheduled,0,0,Madison Square Garden,New York,False,,401910727,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-14,14:30,OKC,SAS,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910728,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-14,17:00,TOR,DET,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910729,1.0,0.0,2.0,0.0,1.0,3.0
+2027-03-14,18:00,SAC,CLE,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910730,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-14,19:30,DEN,MIA,Scheduled,0,0,Ball Arena,Denver,False,,401910731,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-14,20:00,MIN,WAS,Scheduled,0,0,Target Center,Minneapolis,False,,401910732,0.0,1.0,4.0,2.0,0.0,2.0
+2027-03-14,22:00,LAL,GSW,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910733,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-15,19:00,PHI,TOR,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910734,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-15,19:30,BKN,IND,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910735,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-15,20:00,CHI,ORL,Scheduled,0,0,United Center,Chicago,False,,401910736,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-15,20:00,MEM,PHX,Scheduled,0,0,FedExForum,Memphis,False,,401910737,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-15,21:30,DAL,ATL,Scheduled,0,0,American Airlines Center,Dallas,False,,401910738,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-16,19:00,WAS,NYK,Scheduled,0,0,Capital One Arena,Washington,False,,401910739,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-16,19:30,BOS,SAC,Scheduled,0,0,TD Garden,Boston,False,,401910740,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-16,20:00,IND,DET,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910741,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-16,20:00,MIL,ORL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910742,3.0,0.0,3.0,0.0,1.0,4.0
+2027-03-16,20:00,NOP,MIN,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910743,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-16,20:00,OKC,CHA,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910744,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-16,20:30,HOU,SAS,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910745,2.0,0.0,2.0,1.0,0.0,3.0
+2027-03-16,22:00,GSW,CLE,Scheduled,0,0,Chase Center,San Francisco,False,,401910746,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-16,22:00,POR,LAL,Scheduled,0,0,Moda Center,Portland,False,,401910747,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-16,23:00,LAC,DEN,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910748,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-17,19:00,PHI,CHI,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910749,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-17,19:30,NYK,SAC,Scheduled,0,0,Madison Square Garden,New York,False,,401910750,0.0,1.0,4.0,0.0,1.0,4.0
+2027-03-17,19:30,OKC,DAL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910751,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-17,20:30,HOU,BKN,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910752,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-17,21:00,UTA,ATL,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910753,4.0,0.0,2.0,1.0,0.0,4.0
+2027-03-17,22:00,GSW,MEM,Scheduled,0,0,Chase Center,San Francisco,False,,401910754,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-17,22:00,LAL,PHX,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910755,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-17,22:00,POR,MIA,Scheduled,0,0,Moda Center,Portland,False,,401910756,0.0,1.0,3.0,2.0,0.0,3.0
+2027-03-18,19:00,IND,TOR,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910757,1.0,0.0,4.0,2.0,0.0,3.0
+2027-03-18,19:00,WAS,PHI,Scheduled,0,0,Capital One Arena,Washington,False,,401910758,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-18,19:30,BOS,ORL,Scheduled,0,0,TD Garden,Boston,False,,401910759,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-18,20:00,MIL,DET,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910760,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-18,20:00,NOP,CHA,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910761,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-18,20:00,SAS,BKN,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910762,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-18,21:00,DEN,CLE,Scheduled,0,0,Ball Arena,Denver,False,,401910763,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-18,21:00,UTA,MIN,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910764,0.0,1.0,2.0,1.0,0.0,3.0
+2027-03-18,22:30,LAC,MEM,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910765,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-19,19:30,TOR,SAC,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910766,0.0,1.0,4.0,1.0,0.0,4.0
+2027-03-19,20:00,NOP,HOU,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910767,0.0,1.0,4.0,1.0,0.0,3.0
+2027-03-19,20:00,SAS,DAL,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910768,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-19,22:00,GSW,POR,Scheduled,0,0,Chase Center,San Francisco,False,,401910769,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-19,22:00,LAL,ATL,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910770,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-19,22:30,PHX,MIA,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910771,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-20,13:00,NYK,WAS,Scheduled,0,0,Madison Square Garden,New York,False,,401910772,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-20,19:00,ORL,DEN,Scheduled,0,0,Kia Center,Orlando,False,,401910773,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-20,19:30,CLE,CHI,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910774,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-20,20:00,DET,CHA,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910775,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-20,20:00,MEM,OKC,Scheduled,0,0,FedExForum,Memphis,False,,401910776,1.0,0.0,4.0,2.0,0.0,3.0
+2027-03-20,20:00,MIL,IND,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910777,1.0,0.0,2.0,1.0,0.0,4.0
+2027-03-20,22:30,LAC,ATL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910778,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-21,15:00,BKN,SAC,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910780,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-21,15:00,BOS,NOP,Scheduled,0,0,TD Garden,Boston,False,,401910779,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-21,17:00,PHX,POR,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910782,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-21,17:00,UTA,TOR,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910781,2.0,0.0,2.0,1.0,0.0,4.0
+2027-03-21,18:00,MIA,DEN,Scheduled,0,0,Kaseya Center,Miami,False,,401910783,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-21,19:30,PHI,SAS,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910784,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-21,22:00,LAL,DAL,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910785,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-22,19:00,CLE,HOU,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910786,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-22,19:00,ORL,IND,Scheduled,0,0,Kia Center,Orlando,False,,401910787,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-22,20:00,CHI,SAC,Scheduled,0,0,United Center,Chicago,False,,401910788,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-22,20:00,MEM,CHA,Scheduled,0,0,FedExForum,Memphis,False,,401910789,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-22,20:00,MIL,WAS,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910790,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-22,21:30,MIN,DET,Scheduled,0,0,Target Center,Minneapolis,False,,401910791,3.0,0.0,2.0,1.0,0.0,3.0
+2027-03-22,22:00,GSW,ATL,Scheduled,0,0,Chase Center,San Francisco,False,,401910792,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-22,22:30,LAC,DAL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910793,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-23,19:30,BKN,BOS,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910794,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-23,19:30,NYK,NOP,Scheduled,0,0,Madison Square Garden,New York,False,,401910795,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-23,20:00,MIA,LAL,Scheduled,0,0,Kaseya Center,Miami,False,,401910796,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-23,21:00,UTA,PHI,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910797,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-23,22:00,POR,TOR,Scheduled,0,0,Moda Center,Portland,False,,401910798,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-23,23:00,PHX,OKC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910799,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-24,19:00,CHA,DET,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910800,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-24,19:00,IND,MEM,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910801,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-24,19:00,WAS,DEN,Scheduled,0,0,Capital One Arena,Washington,False,,401910802,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-24,19:30,BOS,SAS,Scheduled,0,0,TD Garden,Boston,False,,401910803,0.0,1.0,3.0,2.0,0.0,3.0
+2027-03-24,19:30,NYK,HOU,Scheduled,0,0,Madison Square Garden,New York,False,,401910804,0.0,1.0,3.0,1.0,0.0,3.0
+2027-03-24,20:00,CHI,ORL,Scheduled,0,0,United Center,Chicago,False,,401910805,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-24,20:00,MIN,DAL,Scheduled,0,0,Target Center,Minneapolis,False,,401910806,1.0,0.0,2.0,1.0,0.0,4.0
+2027-03-24,22:00,GSW,PHI,Scheduled,0,0,Chase Center,San Francisco,False,,401910807,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-24,22:00,PHX,OKC,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910808,0.0,1.0,4.0,0.0,1.0,3.0
+2027-03-24,22:00,SAC,ATL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910809,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-24,22:30,LAC,MIL,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910810,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-25,19:00,CLE,LAL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910811,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-25,19:00,DET,HOU,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910812,0.0,1.0,4.0,0.0,1.0,3.0
+2027-03-25,19:00,IND,SAS,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910813,0.0,1.0,4.0,0.0,1.0,4.0
+2027-03-25,19:30,BKN,DEN,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910814,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-25,19:30,MIA,UTA,Scheduled,0,0,Kaseya Center,Miami,False,,401910815,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-25,20:00,MEM,CHI,Scheduled,0,0,FedExForum,Memphis,False,,401910816,0.0,1.0,4.0,0.0,1.0,3.0
+2027-03-25,22:00,GSW,TOR,Scheduled,0,0,Chase Center,San Francisco,False,,401910817,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-26,19:00,CHA,NYK,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910818,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-26,20:00,DAL,NOP,Scheduled,0,0,American Airlines Center,Dallas,False,,401910819,1.0,0.0,4.0,2.0,0.0,3.0
+2027-03-26,20:00,MIN,ORL,Scheduled,0,0,Target Center,Minneapolis,False,,401910820,1.0,0.0,2.0,1.0,0.0,3.0
+2027-03-26,20:00,OKC,LAC,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910821,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-26,22:00,PHX,MIL,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910822,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-26,22:00,POR,PHI,Scheduled,0,0,Moda Center,Portland,False,,401910823,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-27,15:00,DET,SAS,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910824,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-27,19:00,ATL,UTA,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910825,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-27,19:00,WAS,GSW,Scheduled,0,0,Capital One Arena,Washington,False,,401910826,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-27,20:00,CHI,LAC,Scheduled,0,0,United Center,Chicago,False,,401910828,1.0,0.0,4.0,0.0,1.0,4.0
+2027-03-27,20:00,MIA,BOS,Scheduled,0,0,Kaseya Center,Miami,False,,401910827,1.0,0.0,3.0,2.0,0.0,3.0
+2027-03-27,22:00,POR,MIL,Scheduled,0,0,Moda Center,Portland,False,,401910829,0.0,1.0,3.0,0.0,1.0,4.0
+2027-03-27,22:00,SAC,TOR,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910830,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-28,12:30,ORL,NYK,Scheduled,0,0,Kia Center,Orlando,False,,401910831,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-28,15:00,BKN,MEM,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910832,2.0,0.0,3.0,2.0,0.0,3.0
+2027-03-28,15:00,HOU,LAL,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910833,2.0,0.0,3.0,2.0,0.0,3.0
+2027-03-28,18:00,CHA,UTA,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910834,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-28,18:00,WAS,DAL,Scheduled,0,0,Capital One Arena,Washington,False,,401910835,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-28,19:00,NOP,BOS,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910836,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-28,19:30,MIN,OKC,Scheduled,0,0,Target Center,Minneapolis,False,,401910837,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-28,21:00,PHX,TOR,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910838,1.0,0.0,4.0,0.0,1.0,4.0
+2027-03-28,22:00,DEN,PHI,Scheduled,0,0,Ball Arena,Denver,False,,401910839,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-29,19:00,ATL,MIN,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910840,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-29,19:00,CLE,MIA,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910841,3.0,0.0,2.0,1.0,0.0,3.0
+2027-03-29,19:00,DET,LAC,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910842,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-29,19:30,BKN,GSW,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910843,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-29,20:00,CHI,IND,Scheduled,0,0,United Center,Chicago,False,,401910844,1.0,0.0,4.0,3.0,0.0,3.0
+2027-03-29,20:00,MIL,DAL,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910845,1.0,0.0,4.0,0.0,1.0,4.0
+2027-03-29,21:30,SAS,PHX,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910846,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-29,22:00,SAC,DEN,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910847,1.0,0.0,3.0,0.0,1.0,3.0
+2027-03-30,19:00,CHA,MIA,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910848,1.0,0.0,3.0,0.0,1.0,4.0
+2027-03-30,20:00,IND,BOS,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910849,0.0,1.0,3.0,1.0,0.0,4.0
+2027-03-30,20:00,MEM,LAL,Scheduled,0,0,FedExForum,Memphis,False,,401910851,1.0,0.0,3.0,1.0,0.0,3.0
+2027-03-30,20:00,ORL,NYK,Scheduled,0,0,Kia Center,Orlando,False,,401910850,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-30,21:00,UTA,OKC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910852,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-30,23:00,POR,HOU,Scheduled,0,0,Moda Center,Portland,False,,401910853,2.0,0.0,3.0,1.0,0.0,3.0
+2027-03-31,19:00,ATL,LAC,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910854,1.0,0.0,3.0,1.0,0.0,4.0
+2027-03-31,19:00,DET,TOR,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910855,1.0,0.0,4.0,2.0,0.0,3.0
+2027-03-31,19:00,PHI,GSW,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910856,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-31,19:00,WAS,CHI,Scheduled,0,0,Capital One Arena,Washington,False,,401910857,2.0,0.0,3.0,1.0,0.0,4.0
+2027-03-31,19:30,BKN,CLE,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910858,1.0,0.0,3.0,1.0,0.0,2.0
+2027-03-31,20:00,MIL,NOP,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910859,1.0,0.0,4.0,2.0,0.0,2.0
+2027-03-31,20:00,MIN,SAC,Scheduled,0,0,Target Center,Minneapolis,False,,401910860,1.0,0.0,4.0,1.0,0.0,3.0
+2027-03-31,20:00,SAS,PHX,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910861,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-31,21:30,DAL,DEN,Scheduled,0,0,American Airlines Center,Dallas,False,,401910862,1.0,0.0,4.0,1.0,0.0,4.0
+2027-03-31,22:00,POR,HOU,Scheduled,0,0,Moda Center,Portland,False,,401910863,0.0,1.0,3.0,0.0,1.0,4.0
+2027-04-01,19:00,CLE,BOS,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910864,0.0,1.0,3.0,1.0,0.0,3.0
+2027-04-01,19:00,IND,ORL,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910865,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-01,19:30,NYK,CHA,Scheduled,0,0,Madison Square Garden,New York,False,,401910866,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-01,21:30,OKC,LAL,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910867,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-02,19:00,WAS,PHI,Scheduled,0,0,Capital One Arena,Washington,False,,401910868,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-02,19:30,BKN,NYK,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910870,1.0,0.0,3.0,0.0,1.0,4.0
+2027-04-02,19:30,BOS,MIA,Scheduled,0,0,TD Garden,Boston,False,,401910869,0.0,1.0,4.0,2.0,0.0,3.0
+2027-04-02,19:30,MIN,GSW,Scheduled,0,0,Target Center,Minneapolis,False,,401910871,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-02,20:00,CHI,DET,Scheduled,0,0,United Center,Chicago,False,,401910872,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-02,20:00,DAL,SAC,Scheduled,0,0,American Airlines Center,Dallas,False,,401910873,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-02,20:00,MIL,CHA,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910874,1.0,0.0,4.0,0.0,1.0,4.0
+2027-04-02,20:30,HOU,MEM,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910876,1.0,0.0,3.0,2.0,0.0,2.0
+2027-04-02,20:30,TOR,ATL,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910875,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-02,22:00,PHX,DEN,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910877,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-02,22:00,POR,UTA,Scheduled,0,0,Moda Center,Portland,False,,401910878,1.0,0.0,4.0,2.0,0.0,3.0
+2027-04-02,22:30,LAC,SAS,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910879,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-03,17:00,OKC,NOP,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910880,1.0,0.0,3.0,2.0,0.0,2.0
+2027-04-03,19:00,ORL,WAS,Scheduled,0,0,Kia Center,Orlando,False,,401910881,1.0,0.0,3.0,0.0,1.0,4.0
+2027-04-04,13:00,PHI,ATL,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910882,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-04,14:00,MIL,BKN,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910883,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-04,15:00,CLE,CHA,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910884,2.0,0.0,3.0,1.0,0.0,4.0
+2027-04-04,15:00,DAL,MIN,Scheduled,0,0,American Airlines Center,Dallas,False,,401910886,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-04,15:00,DET,MIA,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910885,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-04,15:30,TOR,IND,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910887,1.0,0.0,3.0,2.0,0.0,3.0
+2027-04-04,16:00,HOU,CHI,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910888,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-04,16:30,LAC,PHX,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910889,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-04,17:00,DEN,MEM,Scheduled,0,0,Ball Arena,Denver,False,,401910890,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-04,17:00,UTA,POR,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910891,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-04,18:00,SAC,GSW,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910892,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-04,19:30,NYK,BOS,Scheduled,0,0,Madison Square Garden,New York,False,,401910893,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-04,22:00,LAL,SAS,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910894,2.0,0.0,3.0,1.0,0.0,3.0
+2027-04-05,19:00,CLE,BKN,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910895,0.0,1.0,4.0,0.0,1.0,4.0
+2027-04-05,19:00,ORL,MIA,Scheduled,0,0,Kia Center,Orlando,False,,401910896,1.0,0.0,3.0,0.0,1.0,4.0
+2027-04-05,20:00,NOP,WAS,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910897,1.0,0.0,2.0,1.0,0.0,3.0
+2027-04-06,19:00,CHA,IND,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910898,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-06,19:30,TOR,PHI,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910899,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,20:00,ATL,NYK,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910900,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-06,20:00,MEM,DET,Scheduled,0,0,FedExForum,Memphis,False,,401910901,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,20:00,MIL,CHI,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910902,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,20:00,SAS,SAC,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910903,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,21:00,DEN,NOP,Scheduled,0,0,Ball Arena,Denver,False,,401910904,1.0,0.0,3.0,0.0,1.0,3.0
+2027-04-06,21:00,UTA,OKC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910905,1.0,0.0,3.0,2.0,0.0,3.0
+2027-04-06,22:00,LAL,DAL,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910906,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,22:30,LAC,MIN,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910907,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-06,23:00,GSW,PHX,Scheduled,0,0,Chase Center,San Francisco,False,,401910908,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-07,19:00,DET,IND,Scheduled,0,0,Little Caesars Arena,Detroit,False,,401910909,0.0,1.0,4.0,0.0,1.0,3.0
+2027-04-07,19:00,ORL,BOS,Scheduled,0,0,Kia Center,Orlando,False,,401910910,1.0,0.0,3.0,2.0,0.0,3.0
+2027-04-07,19:30,SAS,CLE,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910912,0.0,1.0,4.0,1.0,0.0,4.0
+2027-04-07,19:30,TOR,BKN,Scheduled,0,0,Scotiabank Arena,Toronto,False,,401910911,0.0,1.0,4.0,1.0,0.0,4.0
+2027-04-07,20:00,CHI,CHA,Scheduled,0,0,United Center,Chicago,False,,401910913,0.0,1.0,4.0,0.0,1.0,4.0
+2027-04-07,20:00,MEM,WAS,Scheduled,0,0,FedExForum,Memphis,False,,401910914,0.0,1.0,3.0,1.0,0.0,4.0
+2027-04-07,20:30,HOU,SAC,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910915,2.0,0.0,3.0,0.0,1.0,4.0
+2027-04-07,22:00,LAL,MIN,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910916,0.0,1.0,3.0,0.0,1.0,4.0
+2027-04-07,22:00,POR,DAL,Scheduled,0,0,Moda Center,Portland,False,,401910917,2.0,0.0,3.0,0.0,1.0,4.0
+2027-04-08,19:00,MIA,PHI,Scheduled,0,0,Kaseya Center,Miami,False,,401910918,2.0,0.0,3.0,1.0,0.0,3.0
+2027-04-08,20:00,MIL,NYK,Scheduled,0,0,Fiserv Forum,Milwaukee,False,,401910919,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-08,21:00,DEN,LAC,Scheduled,0,0,Ball Arena,Denver,False,,401910920,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-08,21:00,UTA,NOP,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910921,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-08,21:30,OKC,GSW,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910922,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-09,19:00,ATL,BOS,Scheduled,0,0,State Farm Arena,Atlanta,False,,401910923,2.0,0.0,3.0,1.0,0.0,3.0
+2027-04-09,19:00,CHA,BKN,Scheduled,0,0,Spectrum Center,Charlotte,False,,401910924,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-09,19:00,IND,CLE,Scheduled,0,0,Gainbridge Fieldhouse,Indianapolis,False,,401910925,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-09,19:00,NYK,DET,Scheduled,0,0,Madison Square Garden,New York,False,,401910926,0.0,1.0,4.0,1.0,0.0,4.0
+2027-04-09,19:00,ORL,TOR,Scheduled,0,0,Kia Center,Orlando,False,,401910927,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-09,20:00,CHI,MIL,Scheduled,0,0,United Center,Chicago,False,,401910929,1.0,0.0,4.0,0.0,1.0,4.0
+2027-04-09,20:00,MIA,WAS,Scheduled,0,0,Kaseya Center,Miami,False,,401910928,0.0,1.0,4.0,1.0,0.0,4.0
+2027-04-09,20:00,OKC,GSW,Scheduled,0,0,Paycom Center,Oklahoma City,False,,401910930,0.0,1.0,3.0,0.0,1.0,4.0
+2027-04-09,20:30,HOU,POR,Scheduled,0,0,Toyota Center (Houston),Houston,False,,401910931,1.0,0.0,3.0,1.0,0.0,3.0
+2027-04-09,21:30,SAS,DEN,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910932,1.0,0.0,4.0,0.0,1.0,4.0
+2027-04-09,21:30,UTA,LAC,Scheduled,0,0,Delta Center,Salt Lake City,False,,401910933,0.0,1.0,4.0,0.0,1.0,4.0
+2027-04-09,22:00,LAL,MIN,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910934,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-09,22:00,PHX,MEM,Scheduled,0,0,Mortgage Matchup Center,Phoenix,False,,401910935,2.0,0.0,3.0,1.0,0.0,4.0
+2027-04-09,22:00,SAC,DAL,Scheduled,0,0,Golden 1 Center,Sacramento,False,,401910936,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,18:00,BKN,TOR,Scheduled,0,0,Barclays Center,Brooklyn,False,,401910938,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,18:00,BOS,MIL,Scheduled,0,0,TD Garden,Boston,False,,401910937,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-11,18:00,CLE,ATL,Scheduled,0,0,Rocket Arena,Cleveland,False,,401910939,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-11,18:00,MIA,ORL,Scheduled,0,0,Kaseya Center,Miami,False,,401910940,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-11,18:00,NOP,CHI,Scheduled,0,0,Smoothie King Center,New Orleans,False,,401910944,2.0,0.0,3.0,1.0,0.0,4.0
+2027-04-11,18:00,NYK,IND,Scheduled,0,0,Madison Square Garden,New York,False,,401910941,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,18:00,PHI,CHA,Scheduled,0,0,Xfinity Mobile Arena,Philadelphia,False,,401910942,2.0,0.0,3.0,1.0,0.0,4.0
+2027-04-11,18:00,WAS,DET,Scheduled,0,0,Capital One Arena,Washington,False,,401910943,1.0,0.0,3.0,1.0,0.0,4.0
+2027-04-11,20:30,DAL,MEM,Scheduled,0,0,American Airlines Center,Dallas,False,,401910945,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,20:30,DEN,OKC,Scheduled,0,0,Ball Arena,Denver,False,,401910948,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-11,20:30,GSW,UTA,Scheduled,0,0,Chase Center,San Francisco,False,,401910949,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,20:30,LAC,SAC,Scheduled,0,0,Intuit Dome,Inglewood,False,,401910950,1.0,0.0,4.0,1.0,0.0,4.0
+2027-04-11,20:30,LAL,PHX,Scheduled,0,0,crypto.com Arena,Los Angeles,False,,401910951,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-11,20:30,MIN,HOU,Scheduled,0,0,Target Center,Minneapolis,False,,401910946,1.0,0.0,4.0,1.0,0.0,3.0
+2027-04-11,20:30,SAS,POR,Scheduled,0,0,Frost Bank Center,San Antonio,False,,401910947,1.0,0.0,4.0,1.0,0.0,3.0
